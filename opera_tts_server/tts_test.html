@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TTS Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    input, select, button {
+      display: block;
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 12px;
+      font-size: 16px;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    #result {
+      margin-top: 20px;
+      padding: 12px;
+      background: #f3f3f3;
+      border-radius: 8px;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <h1>TTS 테스트</h1>
+
+  <input id="wordInput" type="text" placeholder="단어를 입력하세요" />
+
+  <select id="langSelect">
+    <option value="it-IT">Italian (it-IT)</option>
+    <option value="en-US">English (en-US)</option>
+    <option value="ko-KR">Korean (ko-KR)</option>
+    <option value="ja-JP">Japanese (ja-JP)</option>
+  </select>
+
+  <button id="ttsBtn">음성 생성 및 재생</button>
+
+  <div id="result">여기에 결과가 표시됩니다.</div>
+
+  <script>
+    async function generateTTS(word, languageCode) {
+      const response = await fetch('http://localhost:3000/tts', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ word, languageCode }),
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error || 'TTS 요청 실패');
+      }
+
+      return data;
+    }
+
+    document.getElementById('ttsBtn').addEventListener('click', async () => {
+      const word = document.getElementById('wordInput').value.trim();
+      const languageCode = document.getElementById('langSelect').value;
+      const resultBox = document.getElementById('result');
+
+      if (!word) {
+        resultBox.textContent = '단어를 입력해주세요.';
+        return;
+      }
+
+      resultBox.textContent = '음성 생성 중...';
+
+      try {
+        const result = await generateTTS(word, languageCode);
+
+        resultBox.textContent =
+          `성공!\n\n파일명: ${result.saved}\nURL: ${result.url}`;
+
+        const audio = new Audio(result.url);
+        await audio.play();
+      } catch (error) {
+        resultBox.textContent = `에러: ${error.message}`;
+      }
+    });
+  </script>
+</body>
+</html>

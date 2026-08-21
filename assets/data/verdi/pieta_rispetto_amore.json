@@ -1,0 +1,110 @@
+{
+  "id": "verdi_pieta_rispetto_amore",
+  "title": "Pietà, rispetto, amore",
+  "composer": "Verdi",
+  "languageCode": "it",
+  "lines": [
+        {
+      "text": "Perfidi! All'anglo contro me v'unite!",
+      "meaning": "배신자들! 너희는 영국인과 함께 나에 맞서 뭉쳤구나!",
+      "vocab": "perfidi = 배신자들\nall'anglo = 영국인과\ncontro = ~에 맞서\nme = 나\nv'unite = 너희가 뭉치다",
+      "ipa": "ˈpɛrfidi\nalˈlaŋɡlo\nˈkontro\nme\nvuˈniːte"
+    },
+    {
+      "text": "Le potenze presaghe han profetato:",
+      "meaning": "예언의 힘들이 예언했다:",
+      "vocab": "le = 그\npotenze = 힘들\npresaghe = 예언의\nhan = 가지다\nprofetato = 예언했다",
+      "ipa": "le\npoˈtɛntse\npreˈzaːɡe\nan\nprofeˈtaːto"
+    },
+    {
+      "text": "Esser puoi sanguinario, feroce;",
+      "meaning": "너는 피에 굶주리고 잔인할 수 있다;",
+      "vocab": "esser = ~이다\npuoi = 할 수 있다\nsanguinario = 피에 굶주린\nferoce = 잔인한",
+      "ipa": "ˈɛsser\npwɔi\nsaŋɡwiˈnaːrjo\nfeˈroːtʃe"
+    },
+    {
+      "text": "Nessuno nato da donna ti nuoce.",
+      "meaning": "여자에게서 태어난 자는 아무도 너를 해치지 못한다.",
+      "vocab": "nessuno = 아무도\nnato = 태어난\nda = ~에게서\ndonna = 여자\nti = 너를\nnuoce = 해치다",
+      "ipa": "nesˈsuːno\nˈnaːto\nda\nˈdɔnna\nti\nˈnwɔːtʃe"
+    },
+    {
+      "text": "No, non temo di voi, né del fanciullo",
+      "meaning": "아니, 나는 너희도, 너희를 이끄는 저 젊은이도 두렵지 않다",
+      "vocab": "no = 아니\nnon = ~않다\ntemo = 두려워하다\ndi = ~를\nvoi = 너희\nné = ~도 아니다\ndel = ~의\nfanciullo = 젊은이, 소년",
+      "ipa": "nɔ\nnon\nˈtɛːmo\ndi\nvɔi\nne\ndel\nfanˈtʃullo"
+    },
+    {
+      "text": "Che vi conduce! Raffermar sul trono",
+      "meaning": "너희를 이끄는! 왕좌를 굳건히 하거나",
+      "vocab": "che = ~하는\nvi = 너희를\nconduce = 이끌다\nraffermar = 굳건히 하다\nsul = ~위에\ntrono = 왕좌",
+      "ipa": "ke\nvi\nkonˈduːtʃe\nrafferˈmar\nsul\nˈtrɔːno"
+    },
+    {
+      "text": "Questo assalto mi debbe,",
+      "meaning": "이 공격은 나를 해야 한다,",
+      "vocab": "questo = 이\nassalto = 공격\nmi = 나를\ndebbe = ~해야 한다",
+      "ipa": "ˈkwɛsto\nasˈsalto\nmi\nˈdɛbbe"
+    },
+    {
+      "text": "O sbalzarmi per sempre… Eppur la vita",
+      "meaning": "아니면 나를 영원히 내던지거나… 그러나 삶이",
+      "vocab": "o = 아니면\nsbalzarmi = 나를 내던지다\nper = ~히\nsempre = 영원\neppur = 그러나\nla = 그\nvita = 삶",
+      "ipa": "o\nzbalˈtsarmi\nper\nˈsɛmpre\nɛpˈpur\nla\nˈviːta"
+    },
+    {
+      "text": "Sento nelle mie fibre inaridita!",
+      "meaning": "내 온 몸의 섬유 속에서 메말라가는 것을 느낀다!",
+      "vocab": "sento = 느끼다\nnelle = ~안에서\nmie = 나의\nfibre = 섬유, 온 몸\ninaridita = 메말라가는",
+      "ipa": "ˈsɛnto\nˈnɛlle\nˈmiːe\nˈfiːbre\ninaridiˈta"
+    },
+    {
+      "text": "Pietà, rispetto, amore,",
+      "meaning": "자비도, 존경도, 사랑도,",
+      "vocab": "pietà = 자비\nrispetto = 존경\namore = 사랑",
+      "ipa": "pjeˈta\nrisˈpɛtto\naˈmoːre"
+    },
+    {
+      "text": "Conforto ai dì cadenti,",
+      "meaning": "저물어가는 날들의 위안도,",
+      "vocab": "conforto = 위안\nai = ~의\ndì = 날들\ncadenti = 저물어가는",
+      "ipa": "konˈfɔrto\nai\ndi\nkaˈdɛnti"
+    },
+    {
+      "text": "Non spargeran d'un fiore",
+      "meaning": "단 한 송이 꽃도 뿌려지지 않을 것이다",
+      "vocab": "non = ~않다\nspargeran = 뿌릴 것이다\nd'un = 하나의\nfiore = 꽃",
+      "ipa": "non\nsparˈdʒɛran\ndun\nˈfjoːre"
+    },
+    {
+      "text": "La tua canuta età.",
+      "meaning": "너의 백발의 노년에.",
+      "vocab": "la = 그\ntua = 너의\ncanuta = 백발의\netà = 나이, 노년",
+      "ipa": "la\nˈtuːa\nkaˈnuːta\netˈta"
+    },
+    {
+      "text": "Né sul tuo regio sasso",
+      "meaning": "너의 왕의 묘석 위에도",
+      "vocab": "né = ~도 아니다\nsul = ~위에\ntuo = 너의\nregio = 왕의\nsasso = 묘석, 돌",
+      "ipa": "ne\nsul\nˈtuːo\nˈrɛːdʒo\nˈsasso"
+    },
+    {
+      "text": "Sperar soavi accenti:",
+      "meaning": "부드러운 말을 기대하지 마라:",
+      "vocab": "sperar = 기대하다\nsoavi = 부드러운\naccenti = 말, 목소리",
+      "ipa": "speˈrar\nˈswaːvi\natˈtʃɛnti"
+    },
+    {
+      "text": "Sol la bestemmia, ahi lasso!",
+      "meaning": "오직 저주만이, 아 슬프도다!",
+      "vocab": "sol = 오직\nla = 그\nbastemmia = 저주\nahi = 아\nlasso = 슬프도다",
+      "ipa": "sɔl\nla\nbesˈtɛmmja\nˈai\nˈlasso"
+    },
+    {
+      "text": "La nenia tua sarà!",
+      "meaning": "그것이 너의 만가가 될 것이다!",
+      "vocab": "la = 그\nnenia = 만가, 장송곡\ntua = 너의\nsarà = 될 것이다",
+      "ipa": "la\nˈnɛːnja\nˈtuːa\nsaˈra"
+    }
+  ]
+}

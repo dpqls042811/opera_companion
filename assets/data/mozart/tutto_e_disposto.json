@@ -1,0 +1,284 @@
+{
+  "id": "mozart_tutto_e_disposto",
+  "title": "Tutto è disposto...Aprite un po' quegli occhi",
+  "composer": "Mozart",
+  "languageCode": "it",
+  "lines": [
+    {
+      "text": "Tutto è disposto:",
+      "meaning": "모든 준비가 되었다:",
+      "vocab": "tutto = 모든 것\nè = ~이다\ndisposto = 준비된",
+      "ipa": "ˈtutto\nɛ\ndisˈposto"
+    },
+    {
+      "text": "L'ora dovrebbe esser vicina;",
+      "meaning": "때가 가까워졌을 것이다;",
+      "vocab": "l'ora = 때, 시간\ndovrebbe = ~일 것이다\nesser = ~이다\nvicina = 가까운",
+      "ipa": "ˈlɔːra\ndoˈvrɛbbe\nˈɛsser\nviˈtʃiːna"
+    },
+    {
+      "text": "Io sento gente...è dessa!",
+      "meaning": "사람 소리가 들린다... 바로 그녀야!",
+      "vocab": "io = 나는\nsento = 듣다\ngente = 사람\nè = ~이다\ndessa = 바로 그녀",
+      "ipa": "ˈiːo\nˈsɛnto\nˈdʒɛnte\nɛ\nˈdɛssa"
+    },
+    {
+      "text": "Non è alcun;",
+      "meaning": "아무도 없구나;",
+      "vocab": "non = ~않다\nè = ~이다\nalcun = 아무도",
+      "ipa": "non\nɛ\nalˈkun"
+    },
+    {
+      "text": "Buia è la notte...",
+      "meaning": "밤은 어둡고...",
+      "vocab": "buia = 어두운\nè = ~이다\nla = 그\nnotte = 밤",
+      "ipa": "ˈbuːja\nɛ\nla\nˈnɔtte"
+    },
+    {
+      "text": "Ed io comincio omai a fare",
+      "meaning": "그리고 나는 이제 시작하고 있구나",
+      "vocab": "ed = 그리고\nio = 나는\ncomincio = 시작하다\nomai = 이제\na = ~하기를\nfare = 하다",
+      "ipa": "ed\nˈiːo\nkoˈmintʃo\noˈmai\na\nˈfaːre"
+    },
+    {
+      "text": "Il scimunito mestiere di marito...",
+      "meaning": "남편이라는 이 어리석은 역할을...",
+      "vocab": "il = 그\nscimunito = 어리석은\nmestiere = 역할, 직업\ndi = ~의\nmarito = 남편",
+      "ipa": "il\nʃimuˈniːto\nmeˈstjɛːre\ndi\nmaˈriːto"
+    },
+    {
+      "text": "Ingrata!",
+      "meaning": "배은망덕한 것!",
+      "vocab": "ingrata = 배은망덕한",
+      "ipa": "iŋˈɡraːta"
+    },
+    {
+      "text": "Nel memento della mia cerimonia",
+      "meaning": "나의 결혼식 그 순간에",
+      "vocab": "nel = ~안에서\nmomento = 순간\ndella = ~의\nmia = 나의\ncerimonia = 결혼식, 의식",
+      "ipa": "nel\nmoˈmɛnto\nˈdɛlla\nˈmiːa\ntʃeriˈmɔːnja"
+    },
+    {
+      "text": "Ei godeva leggendo:",
+      "meaning": "그는 편지를 읽으며 즐기고 있었고:",
+      "vocab": "ei = 그는\ngodeva = 즐기고 있었다\nleggendo = 읽으면서",
+      "ipa": "ei\nɡoˈdɛːva\nledˈdʒɛndo"
+    },
+    {
+      "text": "E nel vederlo io rideva",
+      "meaning": "그리고 그것을 보면서 나는 웃고 있었지",
+      "vocab": "e = 그리고\nnel = ~하면서\nvederlo = 그것을 보다\nio = 나는\nrideva = 웃고 있었다",
+      "ipa": "e\nnel\nveˈdɛrlo\nˈiːo\nriˈdɛːva"
+    },
+    {
+      "text": "Di me senza saperlo.",
+      "meaning": "나 자신도 모르게 나를 비웃으면서.",
+      "vocab": "di = ~을\nme = 나\nsenza = ~없이\nsaperlo = 그것을 알다",
+      "ipa": "di\nme\nˈsɛntsa\nsaˈpɛrlo"
+    },
+    {
+      "text": "Oh Susanna! Susanna!",
+      "meaning": "오 수잔나! 수잔나!",
+      "vocab": "oh = 오\nSusanna = 수잔나 (인명)",
+      "ipa": "ɔ\nsuˈzanna\nsuˈzanna"
+    },
+    {
+      "text": "Quanta pena mi costi!",
+      "meaning": "네가 나에게 얼마나 큰 고통을 주는지!",
+      "vocab": "quanta = 얼마나 많은\npena = 고통\nmi = 나에게\ncosti = 치르게 하다",
+      "ipa": "ˈkwanta\nˈpɛːna\nmi\nˈkɔsti"
+    },
+    {
+      "text": "Con quell'ingenua faccia,",
+      "meaning": "그 순진한 얼굴로,",
+      "vocab": "con = ~으로\nquell'ingenua = 그 순진한\nfaccia = 얼굴",
+      "ipa": "kon\nkwellinˈdʒɛːnua\nˈfattʃa"
+    },
+    {
+      "text": "Con quelgli occhi innocenti,",
+      "meaning": "그 결백한 눈빛으로,",
+      "vocab": "con = ~으로\nquegli = 그\nocchi = 눈들\ninnocenti = 결백한",
+      "ipa": "kon\nˈkwɛʎʎi\nˈɔkki\ninnoˈtʃɛnti"
+    },
+    {
+      "text": "Chi creduto l'avria? Ah!",
+      "meaning": "누가 그것을 믿었겠는가? 아!",
+      "vocab": "chi = 누가\ncreduto = 믿었다\nl'avria = 그것을 가졌을 것이다",
+      "ipa": "ki\nkreˈduːto\nlaˈvrja\na"
+    },
+    {
+      "text": "Che il fidarse a donna, è ognor follia.",
+      "meaning": "여자를 믿는 것은 언제나 어리석음이로다.",
+      "vocab": "che = ~라는 것\nil = 그\nfidarse = 믿다\na = ~을\ndonna = 여자\nè = ~이다\nognor = 언제나\nfollia = 어리석음, 광기",
+      "ipa": "ke\nil\nfiˈdarse\na\nˈdɔnna\nɛ\noɲˈɲor\nˈfɔllːja"
+    },
+    {
+      "text": "Aprite un po'quegli occhi,",
+      "meaning": "그 눈을 좀 크게 떠보시오,",
+      "vocab": "aprite = 열다\nun po' = 조금\nquegli = 그\nocchi = 눈들",
+      "ipa": "aˈpriːte\nun\npɔ\nˈkwɛʎʎi\nˈɔkki"
+    },
+    {
+      "text": "Uomini incauti e sciocchi,",
+      "meaning": "경솔하고 어리석은 남자들이여,",
+      "vocab": "uomini = 남자들\nincauti = 경솔한\ne = 그리고\nsciocchi = 어리석은",
+      "ipa": "ˈwɔːmini\ninˈkauti\ne\nˈʃɔkki"
+    },
+    {
+      "text": "Guardate queste femmine,",
+      "meaning": "이 여자들을 잘 보시오,",
+      "vocab": "guardate = 보다\nqueste = 이\nfemmine = 여자들",
+      "ipa": "ɡwarˈdaːte\nˈkwɛste\nˈfɛmmine"
+    },
+    {
+      "text": "Guardate cosa son!",
+      "meaning": "그들이 무엇인지 보시오!",
+      "vocab": "guardate = 보다\ncosa = 무엇\nson = ~이다",
+      "ipa": "ɡwarˈdaːte\nˈkɔːza\nson"
+    },
+    {
+      "text": "Queste chiamate dee",
+      "meaning": "여신이라 불리는 이것들은",
+      "vocab": "queste = 이것들\nchiamate = 불리는\ndee = 여신들",
+      "ipa": "ˈkwɛste\nkjaˈmaːte\nˈdɛːe"
+    },
+    {
+      "text": "Dagli ingannati sensi,",
+      "meaning": "속아 넘어간 감각들에 의해,",
+      "vocab": "dagli = ~에 의해\ningannati = 속아 넘어간\nsensi = 감각들",
+      "ipa": "ˈdaʎʎi\ninɡanˈnaːti\nˈsɛnsi"
+    },
+    {
+      "text": "A cui tributa incensi",
+      "meaning": "그들에게 향을 바치는",
+      "vocab": "a = ~에게\ncui = 그들에게\ntributa = 바치다\nincensi = 향, 찬사",
+      "ipa": "a\nkui\ntriˈbuːta\ninˈtʃɛnsi"
+    },
+    {
+      "text": "La debole ragion.",
+      "meaning": "나약한 이성이여.",
+      "vocab": "la = 그\ndebole = 나약한\nragion = 이성",
+      "ipa": "la\nˈdɛːbole\nradˈdʒon"
+    },
+    {
+      "text": "Son streghe che incantano",
+      "meaning": "그들은 홀리는 마녀들이요,",
+      "vocab": "son = ~이다\nstreghe = 마녀들\nche = ~하는\nincantano = 홀리다, 마법을 걸다",
+      "ipa": "son\nˈstrɛːɡe\nke\ninˈkantano"
+    },
+    {
+      "text": "Per farci penar,",
+      "meaning": "우리를 고통받게 하려고,",
+      "vocab": "per = ~위해\nfarci = 우리를 ~하게 하다\npenar = 고통받다",
+      "ipa": "per\nˈfartʃi\npeˈnar"
+    },
+    {
+      "text": "Sirene che cantano",
+      "meaning": "노래하는 사이렌들이요,",
+      "vocab": "sirene = 사이렌들\nche = ~하는\ncantano = 노래하다",
+      "ipa": "siˈrɛːne\nke\nˈkantano"
+    },
+    {
+      "text": "Per farci affogar,",
+      "meaning": "우리를 빠뜨려 죽이려고,",
+      "vocab": "per = ~위해\nfarci = 우리를 ~하게 하다\naffogar = 빠뜨리다, 익사시키다",
+      "ipa": "per\nˈfartʃi\naffoˈɡar"
+    },
+    {
+      "text": "Civette che allettano",
+      "meaning": "유혹하는 올빼미들이요,",
+      "vocab": "civette = 올빼미들, 요부들\nche = ~하는\nallettano = 유혹하다",
+      "ipa": "tʃiˈvɛtte\nke\nalˈlɛttano"
+    },
+    {
+      "text": "Per trarci le piume,",
+      "meaning": "우리의 깃털을 뽑아가려고,",
+      "vocab": "per = ~위해\ntrarci = 우리에게서 빼앗다\nle = 그\npiume = 깃털들",
+      "ipa": "per\nˈtrartʃi\nle\nˈpjuːme"
+    },
+    {
+      "text": "Comete che brillano",
+      "meaning": "빛나는 혜성들이요,",
+      "vocab": "comete = 혜성들\nche = ~하는\nbrillano = 빛나다",
+      "ipa": "koˈmɛːte\nke\nˈbrillano"
+    },
+    {
+      "text": "Per toglierci il lume.",
+      "meaning": "우리의 빛을 빼앗아 가려고.",
+      "vocab": "per = ~위해\ntoglierci = 우리에게서 빼앗다\nil = 그\nlume = 빛",
+      "ipa": "per\ntoʎˈʎɛrtʃi\nil\nˈluːme"
+    },
+    {
+      "text": "Son rose spinose",
+      "meaning": "그들은 가시 돋친 장미들이요,",
+      "vocab": "son = ~이다\nrose = 장미들\nspinose = 가시 돋친",
+      "ipa": "son\nˈroːze\nspiˈnoːze"
+    },
+    {
+      "text": "Son volpi vezzose;",
+      "meaning": "앙증맞은 여우들이요;",
+      "vocab": "son = ~이다\nvolpi = 여우들\nvezzose = 앙증맞은, 교태 부리는",
+      "ipa": "son\nˈvɔlpi\nvetˈtsoːze"
+    },
+    {
+      "text": "Son orse benigne,",
+      "meaning": "온순한 척하는 암곰들이요,",
+      "vocab": "son = ~이다\norse = 암곰들\nbenigne = 온순한 척하는",
+      "ipa": "son\nˈɔrse\nbeˈniɲɲe"
+    },
+    {
+      "text": "Colombe maligne,",
+      "meaning": "악의 품은 비둘기들이요,",
+      "vocab": "colombe = 비둘기들\nmaligne = 악의 품은",
+      "ipa": "koˈlombe\nmaˈliɲɲe"
+    },
+    {
+      "text": "Maestre d'inganni,",
+      "meaning": "속임수의 달인들이요,",
+      "vocab": "maestre = 달인들, 선생들\nd'inganni = 속임수의",
+      "ipa": "maˈɛstre\ndinˈɡanni"
+    },
+    {
+      "text": "Amiche d'affanni,",
+      "meaning": "근심의 친구들이요,",
+      "vocab": "amiche = 친구들\nd'affanni = 근심의",
+      "ipa": "aˈmiːke\ndafˈfanni"
+    },
+    {
+      "text": "Che fingono, mentono,",
+      "meaning": "꾸미고, 거짓말하고,",
+      "vocab": "che = ~하는\nfingono = 꾸미다, 가장하다\nmentono = 거짓말하다",
+      "ipa": "ke\nˈfinɡono\nˈmɛntono"
+    },
+    {
+      "text": "Amore non senton,",
+      "meaning": "사랑을 느끼지 못하고,",
+      "vocab": "amore = 사랑\nnon = ~않다\nsenton = 느끼다",
+      "ipa": "aˈmoːre\nnon\nˈsɛnton"
+    },
+    {
+      "text": "Non senton pietà,",
+      "meaning": "연민도 느끼지 못하는,",
+      "vocab": "non = ~않다\nsenton = 느끼다\npietà = 연민, 자비",
+      "ipa": "non\nˈsɛnton\npjeˈta"
+    },
+    {
+      "text": "No, no, no, no no!",
+      "meaning": "아니, 아니, 아니, 절대 아니야!",
+      "vocab": "no = 아니다",
+      "ipa": "nɔ\nnɔ\nnɔ\nnɔ\nnɔ"
+    },
+    {
+      "text": "Il resto no dico,",
+      "meaning": "나머지는 말하지 않겠다,",
+      "vocab": "il = 그\nresto = 나머지\nno = ~않다\ndico = 말하다",
+      "ipa": "il\nˈrɛsto\nnɔ\nˈdiːko"
+    },
+    {
+      "text": "Già ognuno lo sa.",
+      "meaning": "이미 모두가 알고 있으니.",
+      "vocab": "già = 이미\nognuno = 모두\nlo = 그것을\nsa = 알다",
+      "ipa": "dʒa\noɲˈɲuːno\nlo\nsa"
+    }
+  ]
+}

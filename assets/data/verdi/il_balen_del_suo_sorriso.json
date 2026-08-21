@@ -1,0 +1,122 @@
+{
+  "id": "verdi_il_balen_del_suo_sorriso",
+  "title": "Il balen del suo sorriso",
+  "composer": "Verdi",
+  "languageCode": "it",
+  "lines": [
+        {
+      "text": "Tutto è deserto, né per l'aura ancora",
+      "meaning": "모든 것이 고요하고, 아직 대기 속에서도",
+      "vocab": "tutto = 모든 것\nè = ~이다\ndeserto = 고요한, 텅 빈\nné = ~도 아니다\nper = ~속에서\nl'aura = 대기, 바람\nancora = 아직",
+      "ipa": "ˈtutto\nɛ\ndeˈzɛrto\nne\nper\nˈlaura\naŋˈkora"
+    },
+    {
+      "text": "Suona l'usato carme...",
+      "meaning": "익숙한 노래 소리가 들리지 않는다...",
+      "vocab": "suona = 울리다, 들리다\nl'usato = 익숙한\ncarme = 노래, 시",
+      "ipa": "ˈswɔːna\nluˈzaːto\nˈkarme"
+    },
+    {
+      "text": "In tempo io giungo!",
+      "meaning": "나는 제때에 도착했다!",
+      "vocab": "in = ~에\ntempo = 때, 시간\nio = 나는\ngiungo = 도착하다",
+      "ipa": "in\nˈtɛmpo\nˈiːo\nˈdʒuŋɡo"
+    },
+    {
+      "text": "Ardita, e qual furente amore",
+      "meaning": "대담하게, 격렬한 사랑과",
+      "vocab": "ardita = 대담한\ne = 그리고\nqual = 같은\nfurente = 격렬한\namore = 사랑",
+      "ipa": "arˈdiːta\ne\nkwal\nfuˈrɛnte\naˈmoːre"
+    },
+    {
+      "text": "Ed irritato orgoglio",
+      "meaning": "그리고 상처받은 자존심이",
+      "vocab": "ed = 그리고\nirritato = 상처받은\norgoglio = 자존심",
+      "ipa": "ed\nirriˈtaːto\norˈɡɔʎʎo"
+    },
+    {
+      "text": "Chiesero a me. Spento il rival, caduto",
+      "meaning": "나에게 요구했다. 경쟁자가 쓰러지고, 무너지니",
+      "vocab": "chiesero = 요구했다\na = ~에게\nme = 나\nspento = 꺼진, 쓰러진\nil = 그\nrival = 경쟁자\ncaduto = 무너진",
+      "ipa": "ˈkjɛːzero\na\nme\nˈspɛnto\nil\nriˈval\nkaˈduːto"
+    },
+    {
+      "text": "Ogni ostacol sembrava a' miei desiri;",
+      "meaning": "모든 장애물이 나의 욕망 앞에서 사라진 듯했다;",
+      "vocab": "ogni = 모든\nostacol = 장애물\nsembrava = ~인 듯했다\na' = ~앞에서\nmiei = 나의\ndesiri = 욕망들",
+      "ipa": "ˈoɲɲi\noˈstaːkol\nsemˈbraːva\na\nˈmjɛi\ndeˈziːri"
+    },
+    {
+      "text": "Novello e più possente ella ne appresta...",
+      "meaning": "새롭고 더욱 강력한 장애물을 그녀가 준비하고 있다...",
+      "vocab": "novello = 새로운\ne = 그리고\npiù = 더욱\npossente = 강력한\nella = 그녀가\nne = 그것을\nappresta = 준비하다",
+      "ipa": "noˈvɛllo\ne\npju\nposˈsɛnte\nˈɛlla\nne\napˈprɛsta"
+    },
+    {
+      "text": "L'altare! Ah no, non fia",
+      "meaning": "제단이! 아 아니, 되지 않을 것이다",
+      "vocab": "l'altare = 제단\nah = 아\nno = 아니\nnon = ~않다\nfia = 될 것이다",
+      "ipa": "lalˈtaːre\na\nnɔ\nnon\nˈfiːa"
+    },
+    {
+      "text": "D'altri Leonora!...",
+      "meaning": "레오노라가 다른 이의 것이 되지는 않을 것이다!...",
+      "vocab": "d'altri = 다른 이의\nLeonora = 레오노라 (인명)",
+      "ipa": "ˈdaltri\nleoˈnɔːra"
+    },
+    {
+      "text": "Leonora è mia!",
+      "meaning": "레오노라는 나의 것이다!",
+      "vocab": "Leonora = 레오노라 (인명)\nè = ~이다\nmia = 나의",
+      "ipa": "leoˈnɔːra\nɛ\nˈmiːa"
+    },
+    {
+      "text": "Il balen del suo sorriso",
+      "meaning": "그녀 미소의 반짝이는 빛은",
+      "vocab": "il = 그\nbalen = 반짝이는 빛\ndel = ~의\nsuo = 그녀의\nsorriso = 미소",
+      "ipa": "il\nbaˈlɛn\ndel\nˈsuːo\nsorˈriːzo"
+    },
+    {
+      "text": "D'una stella vince il raggio!",
+      "meaning": "별빛도 능가한다!",
+      "vocab": "d'una = 하나의\nstella = 별\nvince = 능가하다\nil = 그\nraggio = 빛",
+      "ipa": "ˈduːna\nˈstɛlla\nˈvintʃe\nil\nˈraddʒo"
+    },
+    {
+      "text": "Il fulgor del suo bel viso",
+      "meaning": "그녀의 아름다운 얼굴의 광채가",
+      "vocab": "il = 그\nfulgor = 광채\ndel = ~의\nsuo = 그녀의\nbel = 아름다운\nviso = 얼굴",
+      "ipa": "il\nfulˈɡor\ndel\nˈsuːo\nbɛl\nˈviːzo"
+    },
+    {
+      "text": "Novo infonde in me coraggio!...",
+      "meaning": "내 안에 새로운 용기를 불어넣는다!...",
+      "vocab": "novo = 새로운\ninfonde = 불어넣다\nin = ~안에\nme = 나\ncoraggio = 용기",
+      "ipa": "ˈnɔːvo\ninˈfonde\nin\nme\nkoˈraddʒo"
+    },
+    {
+      "text": "Ah! l'amor, l'amore ond'ardo",
+      "meaning": "아! 내가 불타오르는 그 사랑이,",
+      "vocab": "ah = 아\nl'amor = 사랑\nl'amore = 사랑\nond'ardo = 내가 불타오르는",
+      "ipa": "a\nlaˈmor\nlaˈmoːre\nonˈdardo"
+    },
+    {
+      "text": "Le favelli in mio favor!",
+      "meaning": "그녀에게 나를 위해 말해주기를!",
+      "vocab": "le = 그녀에게\nfavelli = 말하다\nin = ~을 위해\nmio = 나의\nfavor = 호의",
+      "ipa": "le\nfaˈvɛlli\nin\nˈmiːo\nfaˈvor"
+    },
+    {
+      "text": "Sperda il sole d'un suo sguardo",
+      "meaning": "그녀의 눈빛의 태양이 흩어버리기를",
+      "vocab": "sperda = 흩어버리다\nil = 그\nsole = 태양\nd'un = 하나의\nsuo = 그녀의\nsguardo = 눈빛",
+      "ipa": "ˈspɛrda\nil\nˈsoːle\ndun\nˈsuːo\nˈzɡwardo"
+    },
+    {
+      "text": "La tempesta del mio cor.",
+      "meaning": "내 마음의 폭풍을.",
+      "vocab": "la = 그\ntempesta = 폭풍\ndel = ~의\nmio = 나의\ncor = 마음",
+      "ipa": "la\ntemˈpɛsta\ndel\nˈmiːo\nkɔr"
+    }
+  ]
+}

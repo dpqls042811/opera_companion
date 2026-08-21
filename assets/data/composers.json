@@ -1,0 +1,11 @@
+[
+  { "name": "Verdi", "subtitle": "베르디" },
+  { "name": "Mozart", "subtitle": "모차르트" },
+  { "name": "Rossini", "subtitle": "로시니" },
+  { "name": "Gounod", "subtitle": "구노" },
+  { "name": "Wagner", "subtitle": "바그너" },
+  { "name": "Giordano", "subtitle": "조르다노" },
+  { "name": "Leoncavallo", "subtitle": "레온카발로" },
+  { "name": "Korngold", "subtitle": "코른골트" },
+  { "name": "Donizetti", "subtitle": "도니제티"}
+]

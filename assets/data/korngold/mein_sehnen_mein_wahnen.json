@@ -1,0 +1,140 @@
+{
+  "id": "korngold_mein_sehnen_mein_wahnen",
+  "title": "Mein Sehnen, mein Wähnen",
+  "composer": "Korngold",
+  "languageCode": "de",
+  "lines": [
+    {
+      "text": "Mein Sehnen, mein Wähnen,",
+      "meaning": "나의 그리움, 나의 꿈이여,",
+      "vocab": "mein = 나의\nSehnen = 그리움, 동경\nWähnen = 꿈, 망상",
+      "ipa": "maɪ̯n\nˈzeːnən\nmaɪ̯n\nˈvɛːnən"
+    },
+    {
+      "text": "es träumt sich zurück.",
+      "meaning": "그것은 꿈속에서 되돌아간다.",
+      "vocab": "es = 그것은\nträumt = 꿈꾸다\nsich = 스스로\nzurück = 뒤로, 되돌아",
+      "ipa": "ɛs\ntrɔɪ̯mt\nzɪç\ntsʊˈrʏk"
+    },
+    {
+      "text": "Im Tanze gewann ich,",
+      "meaning": "춤 속에서 나는 얻었고,",
+      "vocab": "im = ~안에서\nTanze = 춤\ngewann = 얻었다\nich = 나는",
+      "ipa": "ɪm\nˈtantsə\nɡəˈvan\nɪç"
+    },
+    {
+      "text": "verlor ich mein Glück.",
+      "meaning": "춤 속에서 나의 행복을 잃었다.",
+      "vocab": "verlor = 잃었다\nich = 나는\nmein = 나의\nGlück = 행복",
+      "ipa": "fɛɐ̯ˈloːɐ̯\nɪç\nmaɪ̯n\nɡlʏk"
+    },
+    {
+      "text": "Im Tanze am Rhein,",
+      "meaning": "라인강가의 춤 속에서,",
+      "vocab": "im = ~안에서\nTanze = 춤\nam = ~가에\nRhein = 라인강",
+      "ipa": "ɪm\nˈtantsə\nam\nʁaɪ̯n"
+    },
+    {
+      "text": "bei Mondenschein,",
+      "meaning": "달빛 아래,",
+      "vocab": "bei = ~아래\nMondenschein = 달빛",
+      "ipa": "baɪ̯\nˈmoːndənʃaɪ̯n"
+    },
+    {
+      "text": "gestand mir's aus Blauaug",
+      "meaning": "파란 눈에서 나에게 고백했지,",
+      "vocab": "gestand = 고백했다\nmir = 나에게\naus = ~에서\nBlauaug = 파란 눈",
+      "ipa": "ɡəˈʃtant\nmɪɐ̯s\naʊ̯s\nˈblaʊ̯aʊ̯k"
+    },
+    {
+      "text": "ein inniger Blick,",
+      "meaning": "진심 어린 눈빛으로,",
+      "vocab": "ein = 하나의\ninniger = 진심 어린\nBlick = 눈빛, 시선",
+      "ipa": "aɪ̯n\nˈɪnɪɡɐ\nblɪk"
+    },
+    {
+      "text": "gestand mir's ihr bittend Wort:",
+      "meaning": "그녀의 애원하는 말로 나에게 고백했지:",
+      "vocab": "gestand = 고백했다\nmir = 나에게\nihr = 그녀의\nbittend = 애원하는\nWort = 말",
+      "ipa": "ɡəˈʃtant\nmɪɐ̯s\niːɐ̯\nˈbɪtənt\nvɔʁt"
+    },
+    {
+      "text": "o bleib, o geh mit nicht fort,",
+      "meaning": "오, 머물러요, 오, 나를 두고 떠나지 말아요,",
+      "vocab": "o = 오\nbleib = 머물다\ngeh = 가다\nmit = 나와 함께\nnicht = ~않다\nfort = 떠나다",
+      "ipa": "oː\nblaɪ̯p\noː\nɡeː\nmɪt\nnɪçt\nfɔʁt"
+    },
+    {
+      "text": "bewahre der Heimat",
+      "meaning": "고향의",
+      "vocab": "bewahre = 지키다, 간직하다\nder = ~의\nHeimat = 고향",
+      "ipa": "bəˈvaːʁə\ndɛɐ̯\nˈhaɪ̯maːt"
+    },
+    {
+      "text": "still blühendes Glück,",
+      "meaning": "조용히 피어나는 행복을 간직해요,",
+      "vocab": "still = 조용한\nblühendes = 피어나는\nGlück = 행복",
+      "ipa": "ʃtɪl\nˈblyːəndəs\nɡlʏk"
+    },
+    {
+      "text": "mein Sehnen, mein Wähnen,",
+      "meaning": "나의 그리움, 나의 꿈이여,",
+      "vocab": "mein = 나의\nSehnen = 그리움, 동경\nWähnen = 꿈, 망상",
+      "ipa": "maɪ̯n\nˈzeːnən\nmaɪ̯n\nˈvɛːnən"
+    },
+    {
+      "text": "es träumt sich zurück……",
+      "meaning": "그것은 꿈속에서 되돌아간다……",
+      "vocab": "es = 그것은\nträumt = 꿈꾸다\nsich = 스스로\nzurück = 뒤로, 되돌아",
+      "ipa": "ɛs\ntrɔɪ̯mt\nzɪç\ntsʊˈrʏk"
+    },
+    {
+      "text": "Zauber der Ferne",
+      "meaning": "먼 곳의 마법이",
+      "vocab": "Zauber = 마법, 마력\nder = ~의\nFerne = 먼 곳, 저 멀리",
+      "ipa": "ˈtsaʊ̯bɐ\ndɛɐ̯\nˈfɛʁnə"
+    },
+    {
+      "text": "warf in die Seele den Brand.",
+      "meaning": "영혼 속에 불꽃을 던져 넣었다.",
+      "vocab": "warf = 던졌다\nin = ~안에\ndie = 그\nSeele = 영혼\nden = 그\nBrand = 불꽃, 불길",
+      "ipa": "vaʁf\nɪn\ndiː\nˈzeːlə\ndeːn\nbʁant"
+    },
+    {
+      "text": "Zauber des Tanzes",
+      "meaning": "춤의 마법이",
+      "vocab": "Zauber = 마법, 마력\ndes = ~의\nTanzes = 춤",
+      "ipa": "ˈtsaʊ̯bɐ\ndɛs\nˈtantsəs"
+    },
+    {
+      "text": "lockte, ward Komödiant.",
+      "meaning": "나를 유혹했고, 나는 광대가 되었다.",
+      "vocab": "lockte = 유혹했다\nward = 되었다\nKomödiant = 광대, 배우",
+      "ipa": "ˈlɔktə\nvaʁt\nkoməˈdɪant"
+    },
+    {
+      "text": "Folgt ihr, der Wundersüssen,",
+      "meaning": "그 경이롭도록 달콤한 그녀를 따라가며,",
+      "vocab": "folgt = 따르다\nihr = 그녀를\nder = ~의\nWundersüssen = 경이롭도록 달콤한 이",
+      "ipa": "fɔlkt\niːɐ̯\ndɛɐ̯\nˈvʊndɐˌzʏsən"
+    },
+    {
+      "text": "lernt unter Tränen küssen.",
+      "meaning": "눈물 속에서 입맞추는 법을 배웠다.",
+      "vocab": "lernt = 배우다\nunter = ~속에서\nTränen = 눈물들\nküssen = 입맞추다",
+      "ipa": "lɛʁnt\nˈʊntɐ\nˈtrɛːnən\nˈkʏsən"
+    },
+    {
+      "text": "Rausch und Not, und Wahn und Glück,",
+      "meaning": "도취와 고통, 광기와 행복,",
+      "vocab": "Rausch = 도취, 황홀\nund = 그리고\nNot = 고통, 곤경\nWahn = 광기, 망상\nGlück = 행복",
+      "ipa": "ʁaʊ̯ʃ\nʊnt\nnoːt\nʊnt\nvaːn\nʊnt\nɡlʏk"
+    },
+    {
+      "text": "ach, das ist des Gauklers Geschick …",
+      "meaning": "아, 그것이 바로 떠돌이 광대의 운명이라네…",
+      "vocab": "ach = 아\ndas = 그것\nist = ~이다\ndes = ~의\nGauklers = 광대, 곡예사\nGeschick = 운명, 숙명",
+      "ipa": "ax\ndas\nɪst\ndɛs\nˈɡaʊ̯klɐs\nɡəˈʃɪk"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "rossini_largo_al_factotum",
+  "title": "Largo al factotum",
+  "composer": "Rossini",
+  "languageCode": "it",
+  "lines": [
+        {
+      "text": "Largo al factotum della citta.",
+      "meaning": "도시의 만능 일꾼에게 길을 비켜라.",
+      "vocab": "largo = 길을 비켜라\nal = ~에게\nfactotum = 만능 일꾼\ndella = ~의\ncittà = 도시",
+      "ipa": "ˈlarɡo\nal\nfakˈtɔːtum\nˈdɛlla\ntʃitˈta"
+    },
+    {
+      "text": "Presto a bottega che l'alba e gia.",
+      "meaning": "어서 가게로, 벌써 새벽이야.",
+      "vocab": "presto = 어서, 빨리\na = ~으로\nbottega = 가게\nche = 벌써\nl'alba = 새벽\nè = ~이다\ngià = 이미",
+      "ipa": "ˈprɛsto\na\nbotˈtɛːɡa\nke\nˈlalba\nɛ\ndʒa"
+    },
+    {
+      "text": "Ah, che bel vivere, che bel piacere",
+      "meaning": "아, 얼마나 멋진 삶인가, 얼마나 멋진 즐거움인가",
+      "vocab": "ah = 아\nche = 얼마나\nbel = 멋진\nvivere = 삶\npiacere = 즐거움",
+      "ipa": "a\nke\nbɛl\nˈviːvere\nke\nbɛl\npjaˈtʃɛːre"
+    },
+    {
+      "text": "per un barbiere di qualita!",
+      "meaning": "실력 있는 이발사에게는!",
+      "vocab": "per = ~에게\nun = 하나의\nbarbiere = 이발사\ndi = ~의\nqualità = 실력, 품질",
+      "ipa": "per\nun\nbarˈbjɛːre\ndi\nkwaliˈta"
+    },
+    {
+      "text": "Ah, bravo Figaro!",
+      "meaning": "아, 잘한다 피가로!",
+      "vocab": "ah = 아\nbravo = 잘한다\nFigaro = 피가로 (인명)",
+      "ipa": "a\nˈbraːvo\nˈfiːɡaro"
+    },
+    {
+      "text": "Bravo, bravissimo!",
+      "meaning": "잘한다, 정말 잘한다!",
+      "vocab": "bravo = 잘한다\nbravissimo = 정말 잘한다",
+      "ipa": "ˈbraːvo\nbraˈvissimo"
+    },
+    {
+      "text": "Fortunatissimo per verita!",
+      "meaning": "정말이지 더없이 행운아로다!",
+      "vocab": "fortunatissimo = 더없이 행운인\nper = ~로\nverità = 정말이지, 진실로",
+      "ipa": "fortunaˈtissimo\nper\nveriˈta"
+    },
+    {
+      "text": "Pronto a far tutto,",
+      "meaning": "무엇이든 할 준비가 되어 있어,",
+      "vocab": "pronto = 준비된\na = ~하기\nfar = 하다\ntutto = 모든 것",
+      "ipa": "ˈpronto\na\nfar\nˈtutto"
+    },
+    {
+      "text": "la notte e il giorno",
+      "meaning": "밤이고 낮이고",
+      "vocab": "la = 그\nnotte = 밤\ne = 그리고\nil = 그\ngiorno = 낮",
+      "ipa": "la\nˈnɔtte\ne\nil\nˈdʒorno"
+    },
+    {
+      "text": "sempre d'intorno in giro sta.",
+      "meaning": "언제나 주변을 바쁘게 돌아다니지.",
+      "vocab": "sempre = 언제나\nd'intorno = 주변에\nin giro = 돌아다니며\nsta = 있다",
+      "ipa": "ˈsɛmpre\ndinˈtorno\nin\nˈdʒiːro\nsta"
+    },
+    {
+      "text": "Miglior cuccagna per un barbiere,",
+      "meaning": "이발사에게 이보다 더 좋은 팔자가 어디 있겠어,",
+      "vocab": "miglior = 더 좋은\ncuccagna = 팔자, 낙원\nper = ~에게\nun = 하나의\nbarbiere = 이발사",
+      "ipa": "miʎˈʎor\nkukˈkaɲɲa\nper\nun\nbarˈbjɛːre"
+    },
+    {
+      "text": "vita piu nobile, no, non si da.",
+      "meaning": "이보다 더 고귀한 삶은, 아니, 없다고.",
+      "vocab": "vita = 삶\npiù = 더\nnobile = 고귀한\nno = 아니\nnon = ~않다\nsi = ~할 수\ndà = 주다, 있다",
+      "ipa": "ˈviːta\npju\nˈnɔːbile\nnɔ\nnon\nsi\nda"
+    },
+    {
+      "text": "Rasori e pettini",
+      "meaning": "면도칼과 빗,",
+      "vocab": "rasori = 면도칼들\ne = 그리고\npettini = 빗들",
+      "ipa": "raˈzoːri\ne\nˈpɛttini"
+    },
+    {
+      "text": "lancette e forbici,",
+      "meaning": "침과 가위,",
+      "vocab": "lancette = 침들\ne = 그리고\nforbici = 가위",
+      "ipa": "lanˈtʃɛtte\ne\nˈfɔrbitʃi"
+    },
+    {
+      "text": "al mio comando",
+      "meaning": "내 명령 하나에",
+      "vocab": "al = ~에\nmio = 나의\ncomando = 명령",
+      "ipa": "al\nˈmiːo\nkoˈmando"
+    },
+    {
+      "text": "tutto qui sta.",
+      "meaning": "모든 것이 여기 있지.",
+      "vocab": "tutto = 모든 것\nqui = 여기\nsta = 있다",
+      "ipa": "ˈtutto\nkwi\nsta"
+    },
+    {
+      "text": "V'e la risorsa,",
+      "meaning": "게다가 또 다른 수입이 있지,",
+      "vocab": "v'è = 있다\nla = 그\nrisorsa = 수입, 자원",
+      "ipa": "ve\nla\nriˈzorsa"
+    },
+    {
+      "text": "poi, de mestiere",
+      "meaning": "이 직업에는,",
+      "vocab": "poi = 게다가\nde = ~의\nmestiere = 직업",
+      "ipa": "ˈpɔi\nde\nmeˈstjɛːre"
+    },
+    {
+      "text": "colla donnetta... col cavaliere...",
+      "meaning": "아가씨와 함께... 기사 나리와 함께...",
+      "vocab": "colla = ~와 함께\ndonnetta = 아가씨\ncol = ~와 함께\ncavaliere = 기사, 귀족 나리",
+      "ipa": "ˈkɔlla\ndonˈnɛtta\nkol\nkavaˈljɛːre"
+    },
+    {
+      "text": "Tutti mi chiedono, tutti mi vogliono,",
+      "meaning": "모두가 나를 찾고, 모두가 나를 원해,",
+      "vocab": "tutti = 모두\nmi = 나를\nchiedono = 찾다, 요청하다\nvogliono = 원하다",
+      "ipa": "ˈtutti\nmi\nˈkjɛːdono\nˈtutti\nmi\nˈvɔʎʎono"
+    },
+    {
+      "text": "donne, ragazzi, vecchi, fanciulle:",
+      "meaning": "여자들, 청년들, 노인들, 아가씨들:",
+      "vocab": "donne = 여자들\nragazzi = 청년들\nvecchi = 노인들\nfanciulle = 아가씨들",
+      "ipa": "ˈdɔnne\nraˈɡattsi\nˈvɛkki\nfanˈtʃulle"
+    },
+    {
+      "text": "Qua la parruca... Presto la barba...",
+      "meaning": "이리 가발을... 어서 면도를...",
+      "vocab": "qua = 이리\nla = 그\nparruca = 가발\npresto = 어서\nbarba = 면도, 수염",
+      "ipa": "kwa\nla\nparˈruːka\nˈprɛsto\nla\nˈbarba"
+    },
+    {
+      "text": "Qua la sanguigna...",
+      "meaning": "이리 사혈 도구를...",
+      "vocab": "qua = 이리\nla = 그\nsanguigna = 사혈 도구",
+      "ipa": "kwa\nla\nsaŋˈɡwiɲɲa"
+    },
+    {
+      "text": "Presto il biglietto...",
+      "meaning": "어서 쪽지를...",
+      "vocab": "presto = 어서\nil = 그\nbiglietto = 쪽지, 편지",
+      "ipa": "ˈprɛsto\nil\nbiʎˈʎɛtto"
+    },
+    {
+      "text": "Qua la parruca, presto la barba,",
+      "meaning": "이리 가발을, 어서 면도를,",
+      "vocab": "qua = 이리\nla = 그\nparruca = 가발\npresto = 어서\nbarba = 면도, 수염",
+      "ipa": "kwa\nla\nparˈruːka\nˈprɛsto\nla\nˈbarba"
+    },
+    {
+      "text": "Presto il biglietto, ehi!",
+      "meaning": "어서 쪽지를, 이봐!",
+      "vocab": "presto = 어서\nil = 그\nbiglietto = 쪽지, 편지\nehi = 이봐",
+      "ipa": "ˈprɛsto\nil\nbiʎˈʎɛtto\nei"
+    },
+    {
+      "text": "Figaro! Figaro! Figaro!, ecc.",
+      "meaning": "피가로! 피가로! 피가로! 등등.",
+      "vocab": "Figaro = 피가로 (인명)\necc. = 등등",
+      "ipa": "ˈfiːɡaro\nˈfiːɡaro\nˈfiːɡaro"
+    },
+    {
+      "text": "Ahime, che furia!",
+      "meaning": "아이고, 이 무슨 소란이야!",
+      "vocab": "ahimè = 아이고\nche = 이 무슨\nfuria = 소란, 광란",
+      "ipa": "aiˈmɛ\nke\nˈfuːrja"
+    },
+    {
+      "text": "Ahime, che folla!",
+      "meaning": "아이고, 이 무슨 인파야!",
+      "vocab": "ahimè = 아이고\nche = 이 무슨\nfolla = 인파, 군중",
+      "ipa": "aiˈmɛ\nke\nˈfɔlla"
+    },
+    {
+      "text": "Uno alla volta, per carita!",
+      "meaning": "제발 한 번에 한 명씩!",
+      "vocab": "uno = 하나\nalla volta = 한 번에\nper = ~을 위해\ncarità = 제발, 자비",
+      "ipa": "ˈuːno\nˈalla\nˈvɔlta\nper\nkariˈta"
+    },
+    {
+      "text": "Figaro! Son qua.",
+      "meaning": "피가로! 여기 있어.",
+      "vocab": "Figaro = 피가로 (인명)\nson = ~이다\nqua = 여기",
+      "ipa": "ˈfiːɡaro\nson\nkwa"
+    },
+    {
+      "text": "Ehi, Figaro! Son qua.",
+      "meaning": "이봐, 피가로! 여기 있다고.",
+      "vocab": "ehi = 이봐\nFigaro = 피가로 (인명)\nson = ~이다\nqua = 여기",
+      "ipa": "ei\nˈfiːɡaro\nson\nkwa"
+    },
+    {
+      "text": "Figaro qua, Figaro la,",
+      "meaning": "피가로 여기, 피가로 저기,",
+      "vocab": "Figaro = 피가로 (인명)\nqua = 여기\nlà = 저기",
+      "ipa": "ˈfiːɡaro\nkwa\nˈfiːɡaro\nla"
+    },
+    {
+      "text": "Figaro su, Figaro giu,",
+      "meaning": "피가로 위로, 피가로 아래로,",
+      "vocab": "Figaro = 피가로 (인명)\nsu = 위로\ngiù = 아래로",
+      "ipa": "ˈfiːɡaro\nsu\nˈfiːɡaro\nˈdʒu"
+    },
+    {
+      "text": "Pronto prontissimo son come il fumine:",
+      "meaning": "번개처럼 빠르고 또 빠르지:",
+      "vocab": "pronto = 빠른, 준비된\nprontissimo = 아주 빠른\nson = ~이다\ncome = ~처럼\nil = 그\nfulmine = 번개",
+      "ipa": "ˈpronto\npronˈtissimo\nson\nˈkoːme\nil\nˈfulmine"
+    },
+    {
+      "text": "sono il factotum della citta.",
+      "meaning": "나는 이 도시의 만능 일꾼이야.",
+      "vocab": "sono = ~이다\nil = 그\nfactotum = 만능 일꾼\ndella = ~의\ncittà = 도시",
+      "ipa": "ˈsoːno\nil\nfakˈtɔːtum\nˈdɛlla\ntʃitˈta"
+    },
+    {
+      "text": "Ah, bravo Figaro! Bravo, bravissimo;",
+      "meaning": "아, 잘한다 피가로! 잘한다, 정말 잘한다;",
+      "vocab": "ah = 아\nbravo = 잘한다\nFigaro = 피가로 (인명)\nbravissimo = 정말 잘한다",
+      "ipa": "a\nˈbraːvo\nˈfiːɡaro\nˈbraːvo\nbraˈvissimo"
+    },
+    {
+      "text": "a te fortuna non manchera.",
+      "meaning": "너에게 행운은 절대 부족하지 않을 거야.",
+      "vocab": "a = ~에게\nte = 너\nfortuna = 행운\nnon = ~않다\nmancherà = 부족하다",
+      "ipa": "a\nte\nforˈtuːna\nnon\nmankeˈra"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "verdi_il_balen_del_suo_sorriso",
+    "title": "Il balen del suo sorriso",
+    "composer": "G. Verdi"
+  },
+  {
+    "id": "verdi_eri_tu_che_macchiavi",
+    "title": "Alzati...Eri tu che macchiavi",
+    "composer": "G. Verdi"
+  },
+  {
+    "id": "verdi_cortigiani_vil_razza",
+    "title": "Cortigiani vil razza",
+    "composer": "G. Verdi"
+  },
+  {
+    "id": "verdi_pieta_rispetto_amore",
+    "title": "Pietà, rispetto, amore",
+    "composer": "G. Verdi"
+  },
+  {
+    "id": "rossini_largo_al_factotum",
+    "title": "Largo al factotum",
+    "composer": "G. Rossini"
+  },
+  {
+    "id": "verdi_di_provenza_il_mar_il_suol",
+    "title":"Di Provenza il mar il suol",
+    "composer": "G. Verdi"
+  },
+  {
+    "id": "verdi_per_me_giunto_io_morro",
+    "title": "Per me giunto...Io morro",
+    "composer": "G. Verdi"
+  },
+  {
+    "id": "leoncavallo_si_puo",
+    "title": "Si può?",
+    "composer": "R. Leoncavallo"
+  },
+  {
+    "id": "mozart_hai_gia_vinta_la_causa",
+    "title": "Hai già vinta la causa?",
+    "composer": "W. A. Mozart"
+  },
+  {
+    "id": "mozart_tutto_e_disposto",
+    "title": "Tutto è disposto...Aprite un po' quegli occhi",
+    "composer": "W. A. Mozart"
+  },
+  {
+    "id": "mozart_rivolgete_a_lui_lo_sguardo",
+    "title": "Rivolgete a lui lo sguardo",
+    "composer": "W. A. Mozart"
+  },
+  {
+    "id": "wagner_o_du_mein_holder_abendstern",
+    "title": "O du mein holder Abendstern",
+    "composer": "R. Wagner"
+  },
+  {
+    "id": "giordano_nemico_della_patria",
+    "title": "Nemico della Patria",
+    "composer": "U. Giordano"
+  },
+  {
+    "id": "gounod_avant_de_quitter_ces_lieux",
+    "title": "Avant de quitter ces lieux",
+    "composer": "C. Gounod"
+  },
+  {
+    "id": "korngold_mein_sehnen_mein_wahnen",
+    "title": "Mein Sehnen, mein Wähnen",
+    "composer": "E. W. Korngold"
+  },
+  {
+    "id": "donizetti_cruda_funesta_smania",
+    "title": "Curda funesta, smania",
+    "composer": "G. Donizetti"
+  }
+]

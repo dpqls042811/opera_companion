@@ -1,0 +1,104 @@
+{
+  "id": "wagner_o_du_mein_holder_abendstern",
+  "title": "O du mein holder Abendstern",
+  "composer": "Wagner",
+  "languageCode": "de",
+  "lines": [
+    {
+      "text": "Wie Todesahnung, Dämm'rung deckt die Lande,",
+      "meaning": "죽음의 예감인양 황혼이 땅을 덮고",
+      "vocab": "Wie = ~처럼, 마치\nTodesahnung = 죽음의 예감\nDämm'rung = 황혼, 어스름\ndeckt = 덮다\ndie Lande = 땅, 대지",
+      "ipa": "viː\nˈtoːdəsˌʔaːnʊŋ\nˈdɛmʁʊŋ\ndɛkt\ndiː ˈlandə"
+    },
+    {
+      "text": "umhüllt das Tal mit schwärzlichem Gewande;",
+      "meaning": "골짜기를 검은 옷이 감싼다",
+      "vocab": "umhüllt = 감싸다, 뒤덮다\ndas Tal = 골짜기\nmit = ~로, ~을 두르고\nschwärzlichem = 검은빛의\nGewande = 옷, 의복",
+      "ipa": "ʊmˈhʏlt\ndas taːl\nmɪt\nˈʃvɛʁtslɪçəm\nɡəˈvandə"
+    },
+    {
+      "text": "der Seele, die nach jenen Höh'n verlangt,",
+      "meaning": "아득히 높은 곳을 향하는 그녀의 영혼에도",
+      "vocab": "der Seele = 영혼\ndie = 그, 그 영혼은\nnach = ~을 향하여, ~을 그리며\njenen = 저러한, 저\nHöh'n = 높은 곳, 고지\nverlangt = 갈망하다, 원하다",
+      "ipa": "deːɐ̯ ˈzeːlə\ndiː\nnaːx\nˈjeːnən\nhøːn\nfɛɐ̯ˈlaŋt"
+    },
+    {
+      "text": "vor ihrem Flug durch Nacht und Grausen bangt!",
+      "meaning": "밤의 공포를 가로 지르는 길은 두렵다.",
+      "vocab": "vor = ~앞에서, ~을 앞두고\nihrem = 그녀의\nFlug = 비행, 날아오름\ndurch = ~을 가로질러\nNacht = 밤\nund = 그리고\nGrausen = 공포, 전율\nbangt = 두려워하다",
+      "ipa": "foːɐ̯\nˈiːʁəm\nfluːk\ndʊʁç\nnaxt\nʊnt\nˈɡʁaʊzən\nbaŋt"
+    },
+    {
+      "text": "Da scheinest du, o lieblichster der Sterne,",
+      "meaning": "여러 별들 중 가장 아름다운 별이여, 빛을 내서",
+      "vocab": "Da = 그때, 그 순간\nscheinest = 빛나다\ndu = 너는, 그대는\no = 오\nlieblichster = 가장 사랑스러운\nder Sterne = 별들",
+      "ipa": "daː\nˈʃaɪnəst\nduː\noː\nˈliːplɪçstɐ\ndeːɐ̯ ˈʃtɛʁnə"
+    },
+    {
+      "text": "dein sanftes Licht entsendest du der Ferne,",
+      "meaning": "아늑한 등불을 저 멀리 보내어,",
+      "vocab": "dein = 너의, 그대의\nsanftes = 부드러운, 온화한\nLicht = 빛\nentsendest = 보내다, 발하다\ndu = 너는, 그대는\nder Ferne = 먼 곳, 저 멀리",
+      "ipa": "daɪn\nˈzanftəs\nlɪçt\nɛntˈzɛndəst\nduː\ndeːɐ̯ ˈfɛʁnə"
+    },
+    {
+      "text": "die nächt'ge Dämmrung teilt dein lieber Strahl,",
+      "meaning": "부드러운 빛이 밤의 어두움을 헤치고",
+      "vocab": "die nächt'ge = 밤의\nDämmrung = 어스름, 황혼\nteilt = 나누다, 가르다\ndein = 너의, 그대의\nlieber = 사랑스러운, 다정한\nStrahl = 빛줄기, 광선",
+      "ipa": "diː ˈnɛçtɪɡə\nˈdɛmʁʊŋ\ntaɪlt\ndaɪn\nˈliːbɐ\nʃtʁaːl"
+    },
+    {
+      "text": "und freundlich zeigst du den Weg aus dem Tal.",
+      "meaning": "골짜기의 길을 친히 가리켜 주오.",
+      "vocab": "und = 그리고\nfreundlich = 친절한, 다정한\nzeigst = 가리키다, 보여주다\ndu = 너는, 그대는\nden Weg = 길\naus = ~에서\ndem Tal = 골짜기",
+      "ipa": "ʊnt\nˈfʁɔʏntlɪç\ntsaɪkst\nduː\ndeːn veːk\naʊs\ndeːm taːl"
+    },
+    {
+      "text": "O du mein holder Abendstern,",
+      "meaning": "오 나의 자애로운 저녁별이여,",
+      "vocab": "O = 오\ndu = 너, 그대\nmein = 나의\nholder = 자애로운, 사랑스러운\nAbendstern = 저녁별, 금성",
+      "ipa": "oː\nduː\nmaɪn\nˈhɔldɐ\nˈaːbəntʃtɛʁn"
+    },
+    {
+      "text": "wohl grüßt' ich immer dich so gern;",
+      "meaning": "나는 언제나 행복한 기분으로 반겨 맞지만,",
+      "vocab": "wohl = 행복하게, 잘\ngrüßt' = 인사하다, 반기다\nich = 나는\nimmer = 언제나\ndich = 너를, 그대를\nso = 그렇게, 매우\ngern = 기꺼이, 즐겨",
+      "ipa": "voːl\nɡʁyːst\nɪç\nˈɪmɐ\ndɪç\nzoː\nɡɛʁn"
+    },
+    {
+      "text": "vom Herzen, das sie nie verriet,",
+      "meaning": "그녀를 결코 배반할 리 없는 이 마음을,",
+      "vocab": "vom = ~로부터, ~에서\nHerzen = 마음, 심장\ndas = 그것은, 그 마음은\nsie = 그녀를\nnie = 결코 ~않다\nverriet = 배반하다",
+      "ipa": "fɔm\nˈhɛʁtsən\ndas\nziː\nniː\nfɛɐ̯ˈʁiːt"
+    },
+    {
+      "text": "grüße sie wenn sie vorbei dir zieht,",
+      "meaning": "꼭 전해 주시오, 그녀가 지나갈 때에.",
+      "vocab": "grüße = 인사를 전하다\nsie = 그녀를\nwenn = ~할 때\nsie = 그녀가\nvorbei = 지나가며\ndir = 너에게, 그대에게\nzieht = 지나간다",
+      "ipa": "ˈɡʁyːsə\nziː\nvɛn\nziː\nfɔɐ̯ˈbaɪ̯\ndiːɐ̯\ntsiːt"
+    },
+    {
+      "text": "wenn sie entschwebt dem Tal der Erden,",
+      "meaning": "아득히 높은 곳에서 천사가 되기 위해",
+      "vocab": "wenn = ~할 때\nsie = 그녀가\nentschwebt = 날아오르다, 떠오르다\ndem Tal = 골짜기\nder Erden = 땅, 대지",
+      "ipa": "vɛn\nziː\nɛntˈʃveːpt\ndeːm taːl\ndeːɐ̯ ˈeːɐ̯dən"
+    },
+    {
+      "text": "ein sel'ger Engel dort zu werden!",
+      "meaning": "그녀가 이 땅의 골짜기에서 날아오를 때에",
+      "vocab": "ein = 하나의, 한\nsel'ger = 축복받은, 행복한\nEngel = 천사\ndort = 그곳에서\nzu = ~하기 위해\nwerden = 되다",
+      "ipa": "aɪ̯n\nˈzeːlɡɐ\nˈɛŋəl\ndɔʁt\ntsuː\nˈveːɐ̯dən"
+    },
+    {
+      "text": "wenn sie entschwebt dem Tal der Erden,",
+      "meaning": "아득히 높은 곳에서 천사가 되기 위해",
+      "vocab": "wenn = ~할 때\nsie = 그녀가\nentschwebt = 날아오르다, 떠오르다\ndem Tal = 골짜기\nder Erden = 땅, 대지",
+      "ipa": "vɛn\nziː\nɛntˈʃveːpt\ndeːm taːl\ndeːɐ̯ ˈeːɐ̯dən"
+    },
+    {
+      "text": "ein sel'ger Engel dort zu werden!",
+      "meaning": "그녀가 이 땅의 골짜기에서 날아오를 때에.",
+      "vocab": "ein = 하나의, 한\nsel'ger = 축복받은, 행복한\nEngel = 천사\ndort = 그곳에서\nzu = ~하기 위해\nwerden = 되다",
+      "ipa": "aɪ̯n\nˈzeːlɡɐ\nˈɛŋəl\ndɔʁt\ntsuː\nˈveːɐ̯dən"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "verdi_di_provenza_il_mar_il_suol",
+  "title": "Di Provenza il mar, il suol",
+  "composer": "Verdi",
+  "languageCode": "it",
+  "lines": [
+        {
+      "text": "Di Provenza il mar, il suol - chi dal cor ti cancello?",
+      "meaning": "프로방스의 바다와 땅을 - 누가 네 마음에서 지워버렸느냐?",
+      "vocab": "di = ~의\nProvenza = 프로방스 (지명)\nil = 그\nmar = 바다\nsuol = 땅\nchi = 누가\ndal = ~에서\ncor = 마음\nti = 너를\ncancellò = 지워버렸다",
+      "ipa": "di\nproˈvɛntsa\nil\nmar\nil\nswɔl\nki\ndal\nkɔr\nti\nkantʃelˈlɔ"
+    },
+    {
+      "text": "Al natio fulgente sol - qual destino ti furò?",
+      "meaning": "고향의 빛나는 태양으로부터 - 어떤 운명이 너를 빼앗아 갔느냐?",
+      "vocab": "al = ~로부터\nnatio = 고향의\nfulgente = 빛나는\nsol = 태양\nqual = 어떤\ndestino = 운명\nti = 너를\nfurò = 빼앗아 갔다",
+      "ipa": "al\nnaˈtiːo\nfulˈdʒɛnte\nsɔl\nkwal\ndesˈtiːno\nti\nfuˈrɔ"
+    },
+    {
+      "text": "Oh, rammenta pur nel duol - ch'ivi gioia a te brillò;",
+      "meaning": "오, 고통 속에서도 기억하거라 - 그곳에서 기쁨이 너에게 빛났음을;",
+      "vocab": "oh = 오\nrammenta = 기억하다\npur = ~라도\nnel = ~속에서\nduol = 고통\nch'ivi = 그곳에서\ngioia = 기쁨\na = ~에게\nte = 너\nbrillò = 빛났다",
+      "ipa": "o\nramˈmɛnta\npur\nnel\ndwɔl\nˈkiːvi\nˈdʒɔːja\na\nte\nbrilˈlɔ"
+    },
+    {
+      "text": "E che pace colà sol - su te splendere ancor può.",
+      "meaning": "그리고 오직 그곳에서만 - 평화가 너에게 다시 빛날 수 있음을.",
+      "vocab": "e = 그리고\nche = ~라는 것\npace = 평화\ncolà = 그곳에서\nsol = 오직\nsu = ~에게\nte = 너\nsplendere = 빛나다\nancor = 다시\npuò = 할 수 있다",
+      "ipa": "e\nke\nˈpaːtʃe\nkoˈla\nsɔl\nsu\nte\nˈsplɛndere\naŋˈkor\npwɔ"
+    },
+    {
+      "text": "Dio mi guidò!",
+      "meaning": "신이 나를 인도하셨다!",
+      "vocab": "Dio = 신\nmi = 나를\nguidò = 인도했다",
+      "ipa": "ˈdiːo\nmi\nɡwiˈdɔ"
+    },
+    {
+      "text": "Ah! il tuo vecchio genitor - tu non sai quanto soffrì",
+      "meaning": "아! 너의 늙은 아버지가 - 얼마나 고통받았는지 너는 모른다",
+      "vocab": "ah = 아\nil = 그\ntuo = 너의\nvecchio = 늙은\ngenitor = 아버지\ntu = 너는\nnon = ~않다\nsai = 알다\nquanto = 얼마나\nsoffrì = 고통받았다",
+      "ipa": "a\nil\nˈtuːo\nˈvɛkkjo\ndʒeniˈtor\ntu\nnon\nsai\nˈkwanto\nsofˈfri"
+    },
+    {
+      "text": "Te lontano, di squallor il suo tetto si coprì",
+      "meaning": "네가 멀리 떠난 후, 그의 집은 황폐함으로 뒤덮였다",
+      "vocab": "te = 너\nlontano = 멀리\ndi = ~으로\nsquallor = 황폐함\nil = 그\nsuo = 그의\ntetto = 집, 지붕\nsi = ~되다\ncoprì = 뒤덮였다",
+      "ipa": "te\nlonˈtaːno\ndi\nzkwalˈlor\nil\nˈsuːo\nˈtɛtto\nsi\nkoˈpri"
+    },
+    {
+      "text": "Ma se alfin ti trovo ancor, - se in me speme non fallì,",
+      "meaning": "하지만 마침내 너를 다시 찾았으니, - 내 안의 희망이 빗나가지 않았다면,",
+      "vocab": "ma = 하지만\nse = 만약\nalfin = 마침내\nti = 너를\ntrovo = 찾다\nancor = 다시\nin = ~안에\nme = 나\nspeme = 희망\nnon = ~않다\nfallì = 빗나갔다",
+      "ipa": "ma\nse\nalˈfin\nti\nˈtrɔːvo\naŋˈkor\nse\nin\nme\nˈspɛːme\nnon\nfalˈli"
+    },
+    {
+      "text": "Se la voce dell'onor - in te appien non ammutì,",
+      "meaning": "명예의 목소리가 - 네 안에서 완전히 침묵하지 않았다면,",
+      "vocab": "se = 만약\nla = 그\nvoce = 목소리\ndell'onor = 명예의\nin = ~안에서\nte = 너\nappien = 완전히\nnon = ~않다\nammutì = 침묵했다",
+      "ipa": "se\nla\nˈvoːtʃe\ndelˈlonor\nin\nte\napˈpjɛn\nnon\nammuˈti"
+    },
+    {
+      "text": "Dio m'esaudì!",
+      "meaning": "신이 나의 기도를 들어주셨다!",
+      "vocab": "Dio = 신\nm'esaudì = 나의 기도를 들어주었다",
+      "ipa": "ˈdiːo\nmezauˈdi"
+    }
+  ]
+}

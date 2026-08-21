@@ -1,0 +1,146 @@
+{
+  "id": "verdi_eri_tu_che_macchiavi",
+  "title": "Alzati...Eri tu che macchiavi",
+  "composer": "Verdi",
+  "languageCode": "it",
+  "lines": [
+        {
+      "text": "Alzati, là tuo figlio",
+      "meaning": "일어나라, 저기 네 아들이",
+      "vocab": "alzati = 일어나다\nlà = 저기\ntuo = 너의\nfiglio = 아들",
+      "ipa": "alˈtsaːti\nla\nˈtuːo\nˈfiʎʎo"
+    },
+    {
+      "text": "A te concedo riveder. Nell'ombra",
+      "meaning": "너에게 다시 볼 것을 허락한다. 어둠 속에서",
+      "vocab": "a = ~에게\nte = 너\nconcedo = 허락하다\nriveder = 다시 보다\nnell'ombra = 어둠 속에서",
+      "ipa": "a\nte\nkonˈtʃɛːdo\nriveˈdɛr\nnelˈlombra"
+    },
+    {
+      "text": "E nel silenzio, là,",
+      "meaning": "그리고 침묵 속에서, 저기,",
+      "vocab": "e = 그리고\nnel = ~속에서\nsilenzio = 침묵\nlà = 저기",
+      "ipa": "e\nnel\nsiˈlɛntsjo\nla"
+    },
+    {
+      "text": "Il tuo rossore e l'onta mia nascondi.",
+      "meaning": "네 수치와 나의 치욕을 숨겨라.",
+      "vocab": "il = 그\ntuo = 너의\nrossore = 수치, 홍조\ne = 그리고\nl'onta = 치욕\nmia = 나의\nnascondi = 숨기다",
+      "ipa": "il\nˈtuːo\nrosˈsoːre\ne\nˈlonta\nˈmiːa\nnaˈskondi"
+    },
+    {
+      "text": "Non è su lei, nel suo",
+      "meaning": "그녀에게 있지 않다, 그녀의",
+      "vocab": "non = ~않다\nè = ~이다\nsu = ~에게\nlei = 그녀\nnel = ~안에\nsuo = 그녀의",
+      "ipa": "non\nɛ\nsu\nlei\nnel\nˈsuːo"
+    },
+    {
+      "text": "Fragile petto che colpir degg'io.",
+      "meaning": "연약한 가슴을 내가 쳐야 할 것이.",
+      "vocab": "fragile = 연약한\npetto = 가슴\nche = ~하는 것\ncolpir = 치다\ndegg'io = 내가 ~해야 한다",
+      "ipa": "ˈfraːdʒile\nˈpɛtto\nke\nkolˈpir\nˈdɛddʒo"
+    },
+    {
+      "text": "Altro, ben altro sangue a terger dèssi",
+      "meaning": "다른, 전혀 다른 피로 씻어내야 한다",
+      "vocab": "altro = 다른\nben = 전혀\nsangue = 피\na = ~로\nterger = 씻어내다\ndèssi = ~해야 한다",
+      "ipa": "ˈaltro\nbɛn\nˈaltro\nˈsaŋɡwe\na\nˈtɛrdʒer\nˈdɛssi"
+    },
+    {
+      "text": "L'offesa! Il sangue tuo!",
+      "meaning": "이 모욕을! 바로 네 피로!",
+      "vocab": "l'offesa = 모욕\nil = 그\nsangue = 피\ntuo = 너의",
+      "ipa": "lofˈfɛːza\nil\nˈsaŋɡwe\nˈtuːo"
+    },
+    {
+      "text": "E lo trarra il pugnale",
+      "meaning": "그리고 단검이 그것을 뽑아낼 것이다",
+      "vocab": "e = 그리고\nlo = 그것을\ntrarrà = 뽑아낼 것이다\nil = 그\npugnale = 단검",
+      "ipa": "e\nlo\ntraˈrra\nil\npuɲˈɲaːle"
+    },
+    {
+      "text": "dallo sleal tuo core",
+      "meaning": "불충한 네 심장에서",
+      "vocab": "dallo = ~에서\nsleal = 불충한\ntuo = 너의\ncore = 심장",
+      "ipa": "ˈdallo\nzleˈal\nˈtuːo\nˈkɔːre"
+    },
+    {
+      "text": "Delle lacrime mie vendicatore!",
+      "meaning": "나의 눈물의 복수자가 되어!",
+      "vocab": "delle = ~의\nlacrime = 눈물들\nmie = 나의\nvendicatore = 복수자",
+      "ipa": "ˈdɛlle\nˈlaːkrime\nˈmiːe\nvendikаˈtoːre"
+    },
+    {
+      "text": "Eri tu che macchiavi quell'anima,",
+      "meaning": "바로 네가 그 영혼을 더럽혔구나,",
+      "vocab": "eri = ~이었다\ntu = 너\nche = ~하는\nmacchiavi = 더럽혔다\nquell'anima = 그 영혼",
+      "ipa": "ˈɛːri\ntu\nke\nmakˈkjaːvi\nkwelˈlaːnima"
+    },
+    {
+      "text": "La delzia dell'anima mia…",
+      "meaning": "나의 영혼의 기쁨이었던…",
+      "vocab": "la = 그\ndelizia = 기쁨\ndell'anima = 영혼의\nmia = 나의",
+      "ipa": "la\ndeˈliːtsja\ndelˈlaːnima\nˈmiːa"
+    },
+    {
+      "text": "Che m'affidi e d'un tratto esecrabile",
+      "meaning": "나를 믿게 하고는 한순간에 저주스럽게도",
+      "vocab": "che = ~하고는\nm'affidi = 나를 믿게 하다\ne = 그리고\nd'un tratto = 한순간에\nesecrabile = 저주스러운",
+      "ipa": "ke\nmafˈfiːdi\ne\ndun\nˈtratto\nezekˈraːbile"
+    },
+    {
+      "text": "L'universo avveleni per me!",
+      "meaning": "나에게 온 세상을 독으로 물들였구나!",
+      "vocab": "l'universo = 온 세상\navveleni = 독으로 물들이다\nper = ~에게\nme = 나",
+      "ipa": "luniˈvɛrso\navveˈlɛːni\nper\nme"
+    },
+    {
+      "text": "Traditor! che in tal guisa rimuneri",
+      "meaning": "배신자! 이런 방식으로 보답하다니",
+      "vocab": "traditor = 배신자\nche = ~하다니\nin = ~으로\ntal = 이런\nguisa = 방식\nrimuneri = 보답하다",
+      "ipa": "tradiˈtor\nke\nin\ntal\nˈɡwiːza\nrimuˈnɛːri"
+    },
+    {
+      "text": "Dell'amico tuo primo la fè!",
+      "meaning": "네 가장 오랜 친구의 신의를!",
+      "vocab": "dell'amico = 친구의\ntuo = 너의\nprimo = 가장 오랜\nla = 그\nfè = 신의, 믿음",
+      "ipa": "dellaˈmiːko\nˈtuːo\nˈpriːmo\nla\nfɛ"
+    },
+    {
+      "text": "O dolcezze perdute! O memorie",
+      "meaning": "오 잃어버린 달콤함이여! 오 추억들이여",
+      "vocab": "o = 오\ndolcezze = 달콤함들\nperdute = 잃어버린\nmemorie = 추억들",
+      "ipa": "o\ndolˈtʃɛttse\nperˈduːte\no\nmeˈmɔːrje"
+    },
+    {
+      "text": "D'un amplesso che mai non s'oblia!…",
+      "meaning": "결코 잊혀지지 않을 포옹의 추억이여!…",
+      "vocab": "d'un = 하나의\namplesso = 포옹\nche = ~하는\nmai = 결코\nnon = ~않다\ns'oblia = 잊혀지다",
+      "ipa": "dun\namˈplɛsso\nke\nmai\nnon\nzobˈliːa"
+    },
+    {
+      "text": "Quando Amelia sì bella, sì candida",
+      "meaning": "아멜리아가 그토록 아름답고, 그토록 순결하게",
+      "vocab": "quando = ~할 때\nAmelia = 아멜리아 (인명)\nsì = 그토록\nbella = 아름다운\ncandida = 순결한",
+      "ipa": "ˈkwando\naˈmɛːlja\nsi\nˈbɛlla\nsi\nˈkandida"
+    },
+    {
+      "text": "Sul mio seno brillava d'amor!…",
+      "meaning": "내 품에서 사랑으로 빛났을 때!…",
+      "vocab": "sul = ~위에서\nmio = 나의\nseno = 품, 가슴\nbrillava = 빛났다\nd'amor = 사랑으로",
+      "ipa": "sul\nˈmiːo\nˈsɛːno\nbrilˈlaːva\ndaˈmor"
+    },
+    {
+      "text": "È finita – non siede che l'odio,",
+      "meaning": "끝났다 – 이제 증오만이 자리하고,",
+      "vocab": "è = ~이다\nfinita = 끝난\nnon = ~않다\nsiede = 자리하다\nche = 오직\nl'odio = 증오",
+      "ipa": "ɛ\nfiˈniːta\nnon\nˈsjɛːde\nke\nˈlɔːdjo"
+    },
+    {
+      "text": "E la morte sul vedovo cor!",
+      "meaning": "그리고 죽음만이 홀로된 이 마음 위에 있을 뿐!",
+      "vocab": "e = 그리고\nla = 그\nmorte = 죽음\nsul = ~위에\nvedovo = 홀로된, 과부의\ncor = 마음",
+      "ipa": "e\nla\nˈmɔrte\nsul\nˈvɛːdovo\nkɔr"
+    }
+  ]
+}

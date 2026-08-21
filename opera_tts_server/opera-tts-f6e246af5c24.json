@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "opera-tts",
+  "private_key_id": "f6e246af5c24e6ac4911e1e39f4901d8122014a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDo+oo9b1OglacD\niou1eYSV/AKSsHjyIBju6LjDu/CjLF1PkMJzSEsFUsOTVs8on0W4H3HZVSp9xvJ5\nS8RqwPtUkh8umrdawz/TrXX+Pu4CKZTPZi5Z9o1szXVZ7sm6woB3urWt1X/rKuNN\naeJaLDanxLDlJLSA8mbt/ZIT9c6CaKWdheeOIjJ1xndQ41QCvolb0g5feE5h6EyQ\nUk76UCVD3L/PAXdjzJ/9iIv/wxh6g8tN71Cu4sl8gqsP2Jue7KloVgl139ocPiZu\n3Tv2Tpyf2qYnWbemuOYlhp8ALRNYkmwSuGmmOTDTy8ieaO5ZzSPcVpAsHxx04J2r\nwv0fNL1RAgMBAAECgf9WdKLYKXffH6napo8xyOZqwhoyVUqMj1yxS6tE93lVFCGM\nZSvDnBA66XuqMYyuhmxY51JYVEJwamOQn41EEFk0CQWJReDEza/h3Xzr3G52XvfZ\n/xE0UUoqFhR2SyaRJ5yE0cSZvaC6pC+1ipV04PNnTpZWckiJkWqg5nhO7+iye223\nHj7qkjLrWIj9fSqZ3rIbuYGLrFZEvPftEm4iEP9zCJ8WB0sXF+Ibk5mVUHr9W2IX\nsCkPH6+PI6fhV/nJLvaDkxMpjqf/v+dN3bc3TeOeEkzvTNydioK/vJPo5sc7mcJw\nxGScf6t0M8DbfjR9cetUwc98IxWsnOPTgkfROgECgYEA9ieLq+6Je0CsyLpUEIPD\nlKeHkX5eV5waKj1TBMu3YvLQeu8a4DUxoOcZhMRWRSYozxKYZxOcq7jfVOy7b/ox\n+Q+8RVAu4WtEqR+45zHQRZ+nxa3/FdGGWQmWQiZRtFRo1DmuuYyM7BRKja1j3XFQ\nGRTEAkLxNi5GtUwSBKAF8iECgYEA8kwVSQEZwKozZ56UOytYeM4bBZUqcuM+rKke\nqqPTsMIkVLhsThqzUhUx1kvTDctcrN+GvHor20ARPdT31RAW/J03K0GhSrqo6PQk\nRxKWTyCkRttwvQHsJe12OBPZhGF1EQAKIvQ9BuWTiO2pRtlDWYfFX3LAkz9VBNUv\nVe7+xTECgYEAz2OiGclvq5hh+vyBtyhMsAI2Bi8h7U5n/Q6N04yPhZ5uaCTrz9sB\nZT9QELwas0fjOhPAs5eieEvaXgLWKRHy6JSJWxyjYuitgJBpiOA/SWmqQLLIJ+nP\n91RMdI80Z2p2p9exjkMMuBqgdZ2QdhHyGi+UtRMRh0SV7kmZJKxuVgECgYB/SaMA\n+DgMNB3POMrMjsfqpvQhKazkMCeT00DOCkTCnisx6rTTD0nXPFUzLCBTJduo4cDJ\nsTDq/KxSHFiaMNqymPELo23VcVwdDW0lfUlDhnVm2A9Q6/qgLjCl4x+pYP18EdZB\naKfKwL6R97CvDKJKHX591y397Q5//HLipSxocQKBgQC1KBKF5joIT8fJZgyN5Wb2\nG4mUrxnXIJqnLz3xze/8D9CKScOCBII+wE/OsCySo8mtMCp/B6vfrZ2+fwE5NXwO\nByYDappbyfoaQUYdZbY5jJPK0cFzQVoD9ZmwEXyK2HBNSZw9AaaGR7mq6ATwB+pM\n8LBUPJ3rzJeQoalB28BqCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "opera-tts-server@opera-tts.iam.gserviceaccount.com",
+  "client_id": "110973474317883321286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/opera-tts-server%40opera-tts.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

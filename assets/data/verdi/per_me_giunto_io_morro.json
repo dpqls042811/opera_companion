@@ -1,0 +1,170 @@
+{
+  "id": "verdi_per_me_giunto_io_morro",
+  "title": "Per me giunto...Io morro",
+  "composer": "Verdi",
+  "languageCode": "it",
+  "lines": [
+        {
+      "text": "Son io, mio Carlo.",
+      "meaning": "나야, 나의 카를로.",
+      "vocab": "son = ~이다\nio = 나\nmio = 나의\nCarlo = 카를로 (인명)",
+      "ipa": "son\nˈiːo\nˈmiːo\nˈkarlo"
+    },
+    {
+      "text": "Uscir du dêi da quest'orrendo avel.",
+      "meaning": "너는 이 끔찍한 무덤에서 나가야만 한다.",
+      "vocab": "uscir = 나가다\ntu = 너\ndêi = ~해야 한다\nda = ~에서\nquest'orrendo = 이 끔찍한\navel = 무덤",
+      "ipa": "uˈʃir\ntu\nˈdɛi\nda\nkwɛstorˈrɛndo\naˈvɛl"
+    },
+    {
+      "text": "Felice ancor io son se abbracciarti poss'io!",
+      "meaning": "너를 껴안을 수 있다면 나는 아직도 행복하다!",
+      "vocab": "felice = 행복한\nancor = 아직도\nio = 나는\nson = ~이다\nse = 만약\nabbracciarti = 너를 껴안다\nposs'io = 내가 할 수 있다",
+      "ipa": "feˈliːtʃe\naŋˈkor\nˈiːo\nson\nse\nabbratˈtʃarti\nˈpɔssjo"
+    },
+    {
+      "text": "Io ti salvai!",
+      "meaning": "내가 너를 구했다!",
+      "vocab": "io = 나는\nti = 너를\nsalvai = 구했다",
+      "ipa": "ˈiːo\nti\nsalˈvai"
+    },
+    {
+      "text": "Convien qui dirci addio! O mio Carlo!",
+      "meaning": "여기서 우리는 작별을 고해야 한다! 오 나의 카를로!",
+      "vocab": "convien = ~해야 한다\nqui = 여기서\ndirci = 우리에게 말하다\naddio = 작별\no = 오\nmio = 나의\nCarlo = 카를로 (인명)",
+      "ipa": "konˈvjɛn\nkwi\nˈdirtʃi\nadˈdiːo\no\nˈmiːo\nˈkarlo"
+    },
+    {
+      "text": "Per me giunto è il dì supremo,",
+      "meaning": "나에게 마지막 날이 왔다,",
+      "vocab": "per = ~에게\nme = 나\ngiunto = 온\nè = ~이다\nil = 그\ndì = 날\nsupremo = 마지막, 최후의",
+      "ipa": "per\nme\nˈdʒunto\nɛ\nil\ndi\nsuˈprɛːmo"
+    },
+    {
+      "text": "no, mai più ci rivedrem;",
+      "meaning": "아니, 우리는 다시는 만나지 못할 것이다;",
+      "vocab": "no = 아니\nmai = 결코\npiù = 더 이상\nci = 우리는\nrivedrem = 다시 만날 것이다",
+      "ipa": "nɔ\nmai\npju\ntʃi\nriveˈdrɛm"
+    },
+    {
+      "text": "ci congiunga Iddio nel ciel,",
+      "meaning": "하느님께서 하늘에서 우리를 하나로 이어주시기를,",
+      "vocab": "ci = 우리를\ncongiunga = 하나로 잇다\nIddio = 하느님\nnel = ~에서\nciel = 하늘",
+      "ipa": "tʃi\nkonˈdʒuŋɡa\nidˈdiːo\nnel\ntʃɛl"
+    },
+    {
+      "text": "Ei che premia i suoi fedel'.",
+      "meaning": "당신의 신실한 자들에게 상을 주시는 분이시여.",
+      "vocab": "ei = 그분\nche = ~하는\npremia = 상을 주다\ni = 그\nsuoi = 당신의\nfedel' = 신실한 자들",
+      "ipa": "ei\nke\nˈprɛːmja\ni\nˈswɔi\nfeˈdɛl"
+    },
+    {
+      "text": "Sul tuo ciglio il pianto io miro;",
+      "meaning": "네 눈가에 눈물이 맺힌 것을 나는 본다;",
+      "vocab": "sul = ~위에\ntuo = 너의\nciglio = 눈가\nil = 그\npianto = 눈물\nio = 나는\nmiro = 보다",
+      "ipa": "sul\nˈtuːo\nˈtʃiʎʎo\nil\nˈpjanto\nˈiːo\nˈmiːro"
+    },
+    {
+      "text": "lagrimar così perché?",
+      "meaning": "왜 이렇게 우는 것이냐?",
+      "vocab": "lagrimar = 울다\ncosì = 이렇게\nperché = 왜",
+      "ipa": "laɡriˈmar\nkoˈzi\nperˈke"
+    },
+    {
+      "text": "No, fa cor, l'estremo spiro",
+      "meaning": "아니, 용기를 내거라, 마지막 숨결은",
+      "vocab": "no = 아니\nfa = 내다\ncor = 용기, 마음\nl'estremo = 마지막\nspiro = 숨결",
+      "ipa": "nɔ\nfa\nkɔr\nlɛˈstrɛːmo\nˈspiːro"
+    },
+    {
+      "text": "lieto è a chi morrà per te.",
+      "meaning": "너를 위해 죽는 자에게는 기쁜 것이다.",
+      "vocab": "lieto = 기쁜\nè = ~이다\na = ~에게\nchi = ~하는 자\nmorrà = 죽을 것이다\nper = ~을 위해\nte = 너",
+      "ipa": "ˈljɛːto\nɛ\na\nki\nmorˈra\nper\nte"
+    },
+    {
+      "text": "O Carlo, ascolta, La madre t'aspetta",
+      "meaning": "오 카를로, 들어라, 어머니가 너를 기다리고 있다",
+      "vocab": "o = 오\nCarlo = 카를로 (인명)\nascolta = 듣다\nla = 그\nmadre = 어머니\nt'aspetta = 너를 기다리다",
+      "ipa": "o\nˈkarlo\naˈskɔlta\nla\nˈmaːdre\ntaˈspɛtta"
+    },
+    {
+      "text": "a San Giusto doman; tutto ella sa…",
+      "meaning": "내일 산 주스토에서; 그녀는 모든 것을 알고 있다…",
+      "vocab": "a = ~에서\nSan Giusto = 산 주스토 (지명)\ndoman = 내일\ntutto = 모든 것\nella = 그녀는\nsa = 알다",
+      "ipa": "a\nsan\nˈdʒusto\ndoˈman\nˈtutto\nˈɛlla\nsa"
+    },
+    {
+      "text": "Ah! la terra mi manca… Carlo mio,",
+      "meaning": "아! 땅이 꺼져 내려간다… 나의 카를로,",
+      "vocab": "ah = 아\nla = 그\nterra = 땅\nmi = 나에게\nmanca = 사라지다, 꺼지다\nCarlo = 카를로 (인명)\nmio = 나의",
+      "ipa": "a\nla\nˈtɛrra\nmi\nˈmaŋka\nˈkarlo\nˈmiːo"
+    },
+    {
+      "text": "a me porgi la man!..",
+      "meaning": "나에게 손을 내밀어다오!..",
+      "vocab": "a = ~에게\nme = 나\nporgi = 내밀다\nla = 그\nman = 손",
+      "ipa": "a\nme\nˈpordʒi\nla\nman"
+    },
+    {
+      "text": "Io morrò, ma lieto ho in core,",
+      "meaning": "나는 죽겠지만, 마음속에 기쁨을 품고 있다,",
+      "vocab": "io = 나는\nmorrò = 죽을 것이다\nma = 하지만\nlieto = 기쁜\nho = 가지다\nin = ~안에\ncore = 마음",
+      "ipa": "ˈiːo\nmorˈrɔ\nma\nˈljɛːto\nɔ\nin\nˈkɔːre"
+    },
+    {
+      "text": "ché potei così serbar",
+      "meaning": "이렇게 지켜낼 수 있었기에,",
+      "vocab": "ché = ~이기에\npotei = 할 수 있었다\ncosì = 이렇게\nserbar = 지켜내다",
+      "ipa": "ke\npoˈtɛi\nkoˈzi\nserˈbar"
+    },
+    {
+      "text": "alla Spagna un salvatore!",
+      "meaning": "스페인에 한 명의 구원자를!",
+      "vocab": "alla = ~에게\nSpagna = 스페인\nun = 하나의\nsalvatore = 구원자",
+      "ipa": "ˈalla\nˈspaɲɲa\nun\nsalvaˈtoːre"
+    },
+    {
+      "text": "Ah! di me… non ti scordar!..",
+      "meaning": "아! 나를… 잊지 말아다오!..",
+      "vocab": "ah = 아\ndi = ~를\nme = 나\nnon = ~않다\nti = 너는\nscordar = 잊다",
+      "ipa": "a\ndi\nme\nnon\nti\nskorˈdar"
+    },
+    {
+      "text": "Regnare tu dovevi,",
+      "meaning": "너는 왕이 되어야 했고,",
+      "vocab": "regnare = 왕이 되다, 통치하다\ntu = 너는\ndovevi = ~해야 했다",
+      "ipa": "reɲˈɲaːre\ntu\ndoˈvɛːvi"
+    },
+    {
+      "text": "ed io morir per te.",
+      "meaning": "나는 너를 위해 죽어야 했다.",
+      "vocab": "ed = 그리고\nio = 나는\nmorir = 죽다\nper = ~을 위해\nte = 너",
+      "ipa": "ed\nˈiːo\nmoˈrir\nper\nte"
+    },
+    {
+      "text": "Ah! la terra mi manca…",
+      "meaning": "아! 땅이 꺼져 내려간다…",
+      "vocab": "ah = 아\nla = 그\nterra = 땅\nmi = 나에게\nmanca = 사라지다, 꺼지다",
+      "ipa": "a\nla\nˈtɛrra\nmi\nˈmaŋka"
+    },
+    {
+      "text": "la mano a me…",
+      "meaning": "손을 나에게…",
+      "vocab": "la = 그\nmano = 손\na = ~에게\nme = 나",
+      "ipa": "la\nˈmaːno\na\nme"
+    },
+    {
+      "text": "Ah! salva la Fiandra…",
+      "meaning": "아! 플랑드르를 구해다오…",
+      "vocab": "ah = 아\nsalva = 구하다\nla = 그\nFiandra = 플랑드르 (지명)",
+      "ipa": "a\nˈsalva\nla\nˈfjandra"
+    },
+    {
+      "text": "Carlo, addio, Ah!…",
+      "meaning": "카를로, 잘 있거라, 아!…",
+      "vocab": "Carlo = 카를로 (인명)\naddio = 잘 있거라, 작별\nah = 아",
+      "ipa": "ˈkarlo\nadˈdiːo\na"
+    }
+  ]
+}

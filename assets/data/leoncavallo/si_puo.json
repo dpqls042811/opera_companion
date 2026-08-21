@@ -1,0 +1,254 @@
+{
+  "id": "leoncavallo_si_puo",
+  "title": "Si può? Si può?",
+  "composer": "Leoncavallo",
+  "languageCode": "it",
+  "lines": [
+      {
+      "text": "Si può?... Si può?...",
+      "meaning": "실례해도 될까요?... 실례해도 될까요?...",
+      "vocab": "si = ~할 수 있다\npuò = 가능하다",
+      "ipa": "si\npwɔ"
+    },
+    {
+      "text": "Signore! Signori!... Scusatemi",
+      "meaning": "신사 숙녀 여러분!... 용서해 주십시오,",
+      "vocab": "Signore = 신사, 선생님\nSignori = 여러분\nScusatemi = 용서해 주십시오",
+      "ipa": "siɲˈɲoːre\nsiɲˈɲoːri\nskuˈzaːtemi"
+    },
+    {
+      "text": "se da sol me presento.",
+      "meaning": "제가 혼자 나타난다면.",
+      "vocab": "se = 만약\nda = ~로서\nsol = 혼자\nme = 나를\npresento = 소개하다, 나타나다",
+      "ipa": "se\nda\nsɔl\nme\npreˈzɛnto"
+    },
+    {
+      "text": "Io sono il Prologo:",
+      "meaning": "저는 프롤로그입니다:",
+      "vocab": "io = 나는\nsono = ~이다\nil = 그\nPrologo = 프롤로그, 서막",
+      "ipa": "ˈiːo\nˈsoːno\nil\nˈprɔːloɡo"
+    },
+    {
+      "text": "Poiché in scena ancor",
+      "meaning": "왜냐하면 무대 위에 아직도",
+      "vocab": "poiché = 왜냐하면\nin = ~위에\nscena = 무대\nancor = 아직도",
+      "ipa": "poiˈke\nin\nˈʃɛːna\naŋˈkor"
+    },
+    {
+      "text": "le antiche maschere",
+      "meaning": "옛 가면들을",
+      "vocab": "le = 그\nantiche = 옛, 오래된\nmaschere = 가면들",
+      "ipa": "le\nanˈtiːke\nˈmaskere"
+    },
+    {
+      "text": "mette l'autore,",
+      "meaning": "작가가 올려놓기 때문입니다,",
+      "vocab": "mette = 올려놓다\nl'autore = 작가",
+      "ipa": "ˈmɛtte\nlauˈtoːre"
+    },
+    {
+      "text": "in parte ei vuol riprendere",
+      "meaning": "그는 어느 정도 되살리고자 합니다",
+      "vocab": "in = ~에서\nparte = 부분, 어느 정도\nei = 그는\nvuol = 원하다\nriprendere = 되살리다, 다시 취하다",
+      "ipa": "in\nˈparte\nei\nvwɔl\nriˈprɛndere"
+    },
+    {
+      "text": "le vecchie usanze,",
+      "meaning": "옛 관습들을,",
+      "vocab": "le = 그\nvecchie = 옛, 오래된\nusanze = 관습들",
+      "ipa": "le\nˈvɛkkje\nuˈzantse"
+    },
+    {
+      "text": "e a voi di nuovo inviami.",
+      "meaning": "그리하여 다시 저를 여러분께 보냈습니다.",
+      "vocab": "e = 그리하여\na = ~에게\nvoi = 여러분\ndi nuovo = 다시\ninviami = 나를 보내다",
+      "ipa": "e\na\nvɔi\ndi\nˈnwɔvo\ninˈvjaːmi"
+    },
+    {
+      "text": "Ma non per dirvi come pria:",
+      "meaning": "하지만 예전처럼 여러분께 말하려는 것이 아닙니다:",
+      "vocab": "ma = 하지만\nnon = ~않다\nper = ~위해\ndirvi = 여러분께 말하다\ncome = ~처럼\npria = 예전에",
+      "ipa": "ma\nnon\nper\nˈdirvi\nˈkoːme\nˈpriːa"
+    },
+    {
+      "text": "\"Le lacrime che noi versiam son false!",
+      "meaning": "\"우리가 흘리는 눈물은 가짜입니다!",
+      "vocab": "le = 그\nlacrime = 눈물들\nche = ~하는\nnoi = 우리가\nversiam = 흘리다\nson = ~이다\nfalse = 가짜인",
+      "ipa": "le\nˈlaːkrime\nke\nnɔi\nverˈsjaːm\nson\nˈfalse"
+    },
+    {
+      "text": "Degli spasimi e de' nostri martir",
+      "meaning": "우리의 고통과 고뇌에 대해",
+      "vocab": "degli = ~의\nspasimi = 고통들\ne = 그리고\nde' = ~의\nnostri = 우리의\nmartir = 고뇌, 순교",
+      "ipa": "ˈdeʎʎi\nˈspaːzimi\ne\nde\nˈnɔstri\nmarˈtir"
+    },
+    {
+      "text": "non allarmatevi!\"",
+      "meaning": "걱정하지 마십시오!\"",
+      "vocab": "non = ~않다\nallarmatevi = 걱정하다, 놀라다",
+      "ipa": "non\nallarˈmaːtevi"
+    },
+    {
+      "text": "No!... No:",
+      "meaning": "아닙니다!... 아니에요:",
+      "vocab": "no = 아니다",
+      "ipa": "nɔ\nnɔ"
+    },
+    {
+      "text": "L'autore ha cercato invece",
+      "meaning": "작가는 오히려 그리려 했습니다",
+      "vocab": "l'autore = 작가\nha cercato = 시도했다\ninvece = 오히려",
+      "ipa": "lauˈtoːre\na\ntʃerˈkaːto\ninˈvɛːtʃe"
+    },
+    {
+      "text": "pingervi uno squarcio di vita.",
+      "meaning": "여러분께 삶의 한 단면을.",
+      "vocab": "pingervi = 여러분께 그리다\nuno = 하나의\nsquarcio = 단면, 조각\ndi = ~의\nvita = 삶",
+      "ipa": "ˈpindʒervi\nˈuːno\nˈskwartʃo\ndi\nˈviːta"
+    },
+    {
+      "text": "Egli ha per massima sol",
+      "meaning": "그의 유일한 신조는",
+      "vocab": "egli = 그는\nha = 가지다\nper = ~로서\nmassima = 신조, 원칙\nsol = 오직",
+      "ipa": "ˈɛʎʎi\na\nper\nˈmassima\nsɔl"
+    },
+    {
+      "text": "che l'artista è un uom",
+      "meaning": "예술가도 한 인간이며",
+      "vocab": "che = ~라는 것\nl'artista = 예술가\nè = ~이다\nun = 하나의\nuom = 인간",
+      "ipa": "ke\nlarˈtista\nɛ\nun\nˈwɔm"
+    },
+    {
+      "text": "e che per gli uomini",
+      "meaning": "그리고 인간들을 위해",
+      "vocab": "e = 그리고\nche = ~라는 것\nper = ~을 위해\ngli = 그\nuomini = 인간들",
+      "ipa": "e\nke\nper\nʎi\nˈwɔːmini"
+    },
+    {
+      "text": "scrivere ei deve.",
+      "meaning": "그는 글을 써야 한다는 것입니다.",
+      "vocab": "scrivere = 쓰다\nei = 그는\ndeve = ~해야 한다",
+      "ipa": "ˈskriːvere\nei\nˈdɛːve"
+    },
+    {
+      "text": "Ed al vero ispiravasi.",
+      "meaning": "그리고 그는 진실에서 영감을 받았습니다.",
+      "vocab": "ed = 그리고\nal = ~에서\nvero = 진실\nispiravasi = 영감을 받았다",
+      "ipa": "ed\nal\nˈvɛːro\nispiraˈvaːsi"
+    },
+    {
+      "text": "Un nido di memorie",
+      "meaning": "추억들의 둥지가",
+      "vocab": "un = 하나의\nnido = 둥지\ndi = ~의\nmemorie = 추억들",
+      "ipa": "un\nˈniːdo\ndi\nmeˈmɔːrje"
+    },
+    {
+      "text": "in fondo a l'anima cantava un giorno,",
+      "meaning": "영혼 깊은 곳에서 어느 날 노래했고,",
+      "vocab": "in = ~안에\nfondo = 깊은 곳\na = ~의\nl'anima = 영혼\ncantava = 노래했다\nun = 하나의\ngiorno = 날",
+      "ipa": "in\nˈfondo\na\nˈlaːnima\nkanˈtaːva\nun\nˈdʒorno"
+    },
+    {
+      "text": "ed ei con vere lacrime scrisse,",
+      "meaning": "그는 진짜 눈물로 글을 썼고,",
+      "vocab": "ed = 그리고\nei = 그는\ncon = ~으로\nvere = 진짜의\nlacrime = 눈물들\nscrisse = 썼다",
+      "ipa": "ed\nei\nkon\nˈvɛːre\nˈlaːkrime\nˈskrisse"
+    },
+    {
+      "text": "e i singhiozzi il tempo gli battevano!",
+      "meaning": "그리고 흐느낌이 그의 박자를 두드렸습니다!",
+      "vocab": "e = 그리고\ni = 그\nsinghiozzi = 흐느낌들\nil = 그\ntempo = 박자, 시간\ngli = 그에게\nbattevano = 두드렸다",
+      "ipa": "e\ni\nsiŋˈɡjɔttsi\nil\nˈtɛmpo\nʎi\nˈbattevano"
+    },
+    {
+      "text": "Dunque, vedrete amar",
+      "meaning": "그러니, 여러분은 사랑하는 것을 보게 될 것입니다",
+      "vocab": "dunque = 그러니\nvedrete = 보게 될 것이다\namar = 사랑하다",
+      "ipa": "ˈduŋkwe\nvedˈrɛːte\naˈmar"
+    },
+    {
+      "text": "sì come s'amano gli esseri umani;",
+      "meaning": "인간들이 사랑하는 바로 그 방식으로;",
+      "vocab": "sì = 바로 그렇게\ncome = ~처럼\ns'amano = 서로 사랑하다\ngli = 그\nesseri = 존재들\numani = 인간의",
+      "ipa": "si\nˈkoːme\nˈsaːmano\nʎi\nˈɛsseri\nuˈmaːni"
+    },
+    {
+      "text": "vedrete de l'odio i tristi frutti.",
+      "meaning": "증오의 슬픈 열매들을 보게 될 것입니다.",
+      "vocab": "vedrete = 보게 될 것이다\nde = ~의\nl'odio = 증오\ni = 그\ntristi = 슬픈\nfrutti = 열매들",
+      "ipa": "vedˈrɛːte\nde\nˈlɔːdjo\ni\nˈtristi\nˈfrutti"
+    },
+    {
+      "text": "Del dolor gli spasimi,",
+      "meaning": "고통의 경련을,",
+      "vocab": "del = ~의\ndolor = 고통\ngli = 그\nspasimi = 경련, 고통",
+      "ipa": "del\ndoˈlɔr\nʎi\nˈspaːzimi"
+    },
+    {
+      "text": "urli di rabbia, udrete,",
+      "meaning": "분노의 절규를, 여러분은 듣게 될 것입니다,",
+      "vocab": "urli = 절규들\ndi = ~의\nrabbia = 분노\nudrete = 듣게 될 것이다",
+      "ipa": "ˈurli\ndi\nˈrabbja\nuˈdrɛːte"
+    },
+    {
+      "text": "e risa ciniche!",
+      "meaning": "그리고 냉소적인 웃음을!",
+      "vocab": "e = 그리고\nrisa = 웃음\nciniche = 냉소적인",
+      "ipa": "e\nˈriːza\nˈtʃiːnike"
+    },
+    {
+      "text": "E voi, piuttosto",
+      "meaning": "그리고 여러분, 오히려",
+      "vocab": "e = 그리고\nvoi = 여러분\npiuttosto = 오히려",
+      "ipa": "e\nvɔi\npjutˈtosto"
+    },
+    {
+      "text": "che le nostre povere gabbane d'istrioni,",
+      "meaning": "우리 광대들의 초라한 옷보다는,",
+      "vocab": "che = ~보다\nle = 그\nnostre = 우리의\npovere = 초라한\ngabbane = 옷, 외투\nd'istrioni = 광대들의",
+      "ipa": "ke\nle\nˈnɔstre\nˈpɔːvere\nɡabˈbaːne\ndistriˈoːni"
+    },
+    {
+      "text": "le nostr' anime considerate,",
+      "meaning": "우리의 영혼을 헤아려 주십시오,",
+      "vocab": "le = 그\nnostr' = 우리의\nanime = 영혼들\nconsiderate = 헤아리다, 생각하다",
+      "ipa": "le\nˈnɔstr\nˈaːnime\nkonsideˈraːte"
+    },
+    {
+      "text": "poiché siam uomini di carne e d'ossa,",
+      "meaning": "왜냐하면 우리도 살과 뼈로 이루어진 인간이기 때문입니다,",
+      "vocab": "poiché = 왜냐하면\nsiam = ~이다\nuomini = 인간들\ndi = ~의\ncarne = 살\ne = 그리고\nd'ossa = 뼈의",
+      "ipa": "poiˈke\nˈsjaːm\nˈwɔːmini\ndi\nˈkarne\ne\nˈdɔssa"
+    },
+    {
+      "text": "e che di quest' orfano mondo",
+      "meaning": "그리고 이 고독한 세상에서",
+      "vocab": "e = 그리고\nche = ~라는 것\ndi = ~에서\nquest' = 이\norfano = 고독한, 고아의\nmondo = 세상",
+      "ipa": "e\nke\ndi\nˈkwest\nˈɔrfano\nˈmondo"
+    },
+    {
+      "text": "al pari di voi spiriamo l'aere!",
+      "meaning": "여러분과 똑같이 우리도 공기를 마십니다!",
+      "vocab": "al pari = 똑같이\ndi = ~와\nvoi = 여러분\nspiriamo = 숨쉬다, 마시다\nl'aere = 공기",
+      "ipa": "al\nˈpaːri\ndi\nvɔi\nspiriˈaːmo\nˈlaːere"
+    },
+    {
+      "text": "Il concetto vi dissi...",
+      "meaning": "제가 여러분께 뜻을 말씀드렸습니다...",
+      "vocab": "il = 그\nconcetto = 뜻, 개념\nvi = 여러분께\ndissi = 말했다",
+      "ipa": "il\nkonˈtʃɛtto\nvi\nˈdissi"
+    },
+    {
+      "text": "Or ascoltate com'egli è svolto.",
+      "meaning": "이제 그것이 어떻게 펼쳐지는지 들어보십시오.",
+      "vocab": "or = 이제\nascoltate = 들으십시오\ncom'egli = 어떻게 그것이\nè = ~이다\nsvolto = 펼쳐진",
+      "ipa": "or\naskɔlˈtaːte\nkoˈmɛʎʎi\nɛ\nˈzvɔlto"
+    },
+    {
+      "text": "Andiam. Incominciate!",
+      "meaning": "갑시다. 시작하십시오!",
+      "vocab": "andiam = 갑시다\nincominciate = 시작하다",
+      "ipa": "anˈdjaːm\ninkominˈtʃaːte"
+    }
+  ]
+}

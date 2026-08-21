@@ -1,0 +1,194 @@
+{
+  "id": "giordano_nemico_della_patria",
+  "title": "Nemico della Patria",
+  "composer": "Giordano",
+  "languageCode": "it",
+  "lines": [
+    {
+      "text": "Nemico della Patria?!",
+      "meaning": "조국의 적이라니?!",
+      "vocab": "nemico = 적\ndella = ~의\nPatria = 조국",
+      "ipa": "neˈmiːko\nˈdɛlla\nˈpaːtrja"
+    },
+    {
+      "text": "È vecchia fiaba che beatamente",
+      "meaning": "그것은 낡아빠진 이야기, 사람들이 아무 의심 없이",
+      "vocab": "è = ~이다\nvecchia = 낡은, 오래된\nfiaba = 이야기, 동화\nche = ~하는\nbeatamente = 행복하게, 순진하게",
+      "ipa": "ɛ\nˈvɛkkja\nˈfjaːba\nke\nbeataˈmente"
+    },
+    {
+      "text": "ancor la beve il popolo.",
+      "meaning": "민중이 아직도 곧이곧대로 믿어버리는.",
+      "vocab": "ancor = 아직도\nla = 그것을\nbeve = 마시다, 받아들이다\nil = 그\npopolo = 민중, 사람들",
+      "ipa": "aŋˈkor\nla\nˈbɛːve\nil\nˈpɔːpolo"
+    },
+    {
+      "text": "Nato a Costantinopoli? Straniero!",
+      "meaning": "콘스탄티노플에서 태어났다고? 이방인 놈!",
+      "vocab": "nato = 태어난\na = ~에서\nCostantinopoli = 콘스탄티노플\nstraniero = 이방인, 외국인",
+      "ipa": "ˈnaːto\na\nkostantiˈnɔːpoli\nstraˈnjɛːro"
+    },
+    {
+      "text": "Studiò a Saint Cyr? Soldato!",
+      "meaning": "생시르에서 공부했다고? 군인 놈!",
+      "vocab": "studiò = 공부했다\na = ~에서\nSaint Cyr = 생시르 (프랑스 육군사관학교)\nsoldato = 군인, 병사",
+      "ipa": "stuˈdjɔ\na\nsɛ̃ siʁ\nsolˈdaːto"
+    },
+    {
+      "text": "Traditore! Di Dumouriez un complice!",
+      "meaning": "반역자! 뒤무리에의 공모자!",
+      "vocab": "traditore = 반역자, 배신자\ndi = ~의\nDumouriez = 뒤무리에 (인명)\nun = 하나의\ncomplice = 공모자, 공범",
+      "ipa": "tradiˈtoːre\ndi\ndumurˈje\nun\nˈkɔmplitʃe"
+    },
+    {
+      "text": "E poeta? Sovvertitor di cuori e di costumi!",
+      "meaning": "게다가 시인이라고? 사람들의 마음과 도덕을 뒤흔드는 자!",
+      "vocab": "e = 그리고\npoeta = 시인\nsovvertitor = 전복자, 뒤흔드는 자\ndi = ~의\ncuori = 마음들\ne = 그리고\ndi = ~의\ncostumi = 풍속, 관습",
+      "ipa": "e\npoˈɛːta\nsovertitorˈe\ndi\nˈkwɔːri\ne\ndi\nkoˈstuːmi"
+    },
+    {
+      "text": "Un dì m'era di gioia",
+      "meaning": "한때 나에게는 기쁨이었지,",
+      "vocab": "un = 하나의\ndì = 날, 한때\nm'era = 나에게 ~이었다\ndi = ~의\ngioia = 기쁨",
+      "ipa": "un\ndi\nˈmɛːra\ndi\nˈdʒɔːja"
+    },
+    {
+      "text": "passar fra gli odi e le vendette,",
+      "meaning": "증오와 복수가 넘치는 세상 속을 헤쳐나가는 것이.",
+      "vocab": "passar = 지나가다\nfra = ~사이를\ngli = 그\nodi = 증오들\ne = 그리고\nle = 그\nvendette = 복수들",
+      "ipa": "pasˈsar\nfra\nʎi\nˈɔːdi\ne\nle\nvenˈdɛtte"
+    },
+    {
+      "text": "puro, innocente e forte.",
+      "meaning": "순수하고, 결백하고, 강인하게.",
+      "vocab": "puro = 순수한\ninnocente = 결백한, 순진한\ne = 그리고\nforte = 강인한",
+      "ipa": "ˈpuːro\ninnoˈtʃɛnte\ne\nˈfɔrte"
+    },
+    {
+      "text": "Gigante mi credea ...",
+      "meaning": "나는 스스로를 거인이라 믿었건만...",
+      "vocab": "gigante = 거인\nmi = 나를\ncredea = 믿었다",
+      "ipa": "dʒiˈɡante\nmi\nkreˈdɛːa"
+    },
+    {
+      "text": "Son sempre un servo!",
+      "meaning": "나는 여전히 하인에 불과하구나!",
+      "vocab": "son = ~이다\nsempre = 여전히, 항상\nun = 하나의\nservo = 하인, 종",
+      "ipa": "son\nˈsɛmpre\nun\nˈsɛrvo"
+    },
+    {
+      "text": "Ho mutato padrone.",
+      "meaning": "주인만 바꿨을 뿐이야.",
+      "vocab": "ho mutato = 바꿨다\npadrone = 주인",
+      "ipa": "o\nmuˈtaːto\npaˈdroːne"
+    },
+    {
+      "text": "Un servo obbediente di violenta passione!",
+      "meaning": "격렬한 열정에 고분고분 따르는 하인!",
+      "vocab": "un = 하나의\nservo = 하인\nobbediente = 순종하는\ndi = ~의\nviolenta = 격렬한\npassione = 열정",
+      "ipa": "un\nˈsɛrvo\nobbediˈɛnte\ndi\nvjoˈlɛnta\npassˈjoːne"
+    },
+    {
+      "text": "Ah, peggio! Uccido e tremo,",
+      "meaning": "아, 더 끔찍한 것은! 나는 죽이면서 떨고 있어,",
+      "vocab": "ah = 아\npeggio = 더 나쁜\nuccido = 죽이다\ne = 그리고\ntremo = 떨다",
+      "ipa": "a\nˈpɛddʒo\nutˈtʃiːdo\ne\nˈtrɛːmo"
+    },
+    {
+      "text": "e mentre uccido io piango!",
+      "meaning": "죽이는 그 순간에도 나는 울고 있어!",
+      "vocab": "e = 그리고\nmentre = ~하는 동안\nuccido = 죽이다\nio = 나는\npiango = 울다",
+      "ipa": "e\nˈmɛntre\nutˈtʃiːdo\nˈiːo\nˈpjaŋɡo"
+    },
+    {
+      "text": "Io della Redentrice figlio,",
+      "meaning": "나는 혁명의 아들로서,",
+      "vocab": "io = 나는\ndella = ~의\nRedentrice = 구원자, 혁명\nfiglio = 아들",
+      "ipa": "ˈiːo\nˈdɛlla\nredenˈtriːtʃe\nˈfiʎʎo"
+    },
+    {
+      "text": "pel primo ho udito il grido suo",
+      "meaning": "누구보다 먼저 그 외침을 들었고",
+      "vocab": "pel = ~을 위해\nprimo = 처음으로\nho udito = 들었다\nil = 그\ngrido = 외침\nsuo = 그의",
+      "ipa": "pel\nˈpriːmo\no\nuˈdiːto\nil\nˈɡriːdo\nˈsuːo"
+    },
+    {
+      "text": "pel mondo ed ho al suo il mio grido",
+      "meaning": "온 세상을 향해 그 외침에 나의 목소리를",
+      "vocab": "pel = ~을 위해\nmondo = 세상\ned = 그리고\nho = 가지다\nal = ~에\nsuo = 그의\nil = 그\nmio = 나의\ngrido = 외침",
+      "ipa": "pel\nˈmondo\ned\no\nal\nˈsuːo\nil\nˈmiːo\nˈɡriːdo"
+    },
+    {
+      "text": "unito... Or smarrita ho la fede",
+      "meaning": "하나로 합쳤건만... 이제 나는 그 믿음을 잃어버린 것인가,",
+      "vocab": "unito = 합친\nor = 이제\nsmarrita = 잃어버린\nho = 가지다\nla = 그\nfede = 믿음, 신념",
+      "ipa": "uˈniːto\nor\nzmarˈriːta\no\nla\nˈfɛːde"
+    },
+    {
+      "text": "nel sognato destino?",
+      "meaning": "그토록 꿈꾸던 운명을?",
+      "vocab": "nel = ~안에서\nsognato = 꿈꾸던\ndestino = 운명",
+      "ipa": "nel\nsoɲˈɲaːto\ndesˈtiːno"
+    },
+    {
+      "text": "Com'era irradiato di gloria",
+      "meaning": "얼마나 눈부신 영광으로 빛나던",
+      "vocab": "com'era = 얼마나 ~이었던가\nirradiato = 빛나던\ndi = ~으로\ngloria = 영광",
+      "ipa": "koˈmɛːra\nirradˈjaːto\ndi\nˈɡlɔːrja"
+    },
+    {
+      "text": "il mio cammino!",
+      "meaning": "나의 길이었던가!",
+      "vocab": "il = 그\nmio = 나의\ncammino = 길, 여정",
+      "ipa": "il\nˈmiːo\nkamˈmiːno"
+    },
+    {
+      "text": "La coscienza nei cuor",
+      "meaning": "사람들의 가슴속에 잠든 양심을",
+      "vocab": "la = 그\ncoscienza = 양심\nnei = ~안에\ncuor = 마음",
+      "ipa": "la\nkoʃˈʃɛntsa\nnei\nˈkwɔr"
+    },
+    {
+      "text": "ridestar delle genti,",
+      "meaning": "다시 깨워 일으키고,",
+      "vocab": "ridestar = 다시 깨우다\ndelle = ~의\ngenti = 사람들",
+      "ipa": "rideˈstar\nˈdɛlle\nˈdʒɛnti"
+    },
+    {
+      "text": "raccogliere le lagrime",
+      "meaning": "흘러내리는 눈물을 거두어들이고,",
+      "vocab": "raccogliere = 모으다, 거두다\nle = 그\nlagrime = 눈물들",
+      "ipa": "rakˈkɔʎʎere\nle\nˈlaːɡrime"
+    },
+    {
+      "text": "dei vinti e sofferenti,",
+      "meaning": "패배한 자들과 고통받는 자들의,",
+      "vocab": "dei = ~의\nvinti = 패배한 자들\ne = 그리고\nsofferenti = 고통받는 자들",
+      "ipa": "dei\nˈvinti\ne\nsoffeˈrɛnti"
+    },
+    {
+      "text": "fare del mondo un Pantheon,",
+      "meaning": "이 세상을 하나의 신전으로 만들고,",
+      "vocab": "fare = 만들다\ndel = ~의\nmondo = 세상\nun = 하나의\nPantheon = 판테온, 신전",
+      "ipa": "ˈfaːre\ndel\nˈmondo\nun\nˈpanteon"
+    },
+    {
+      "text": "gli uomini in dei mutare",
+      "meaning": "인간들을 신으로 변화시키고,",
+      "vocab": "gli = 그\nuomini = 인간들\nin = ~으로\ndei = 신들\nmutare = 변화시키다",
+      "ipa": "ʎi\nˈwɔːmini\nin\nˈdɛi\nmuˈtaːre"
+    },
+    {
+      "text": "e in un sol bacio e abbraccio",
+      "meaning": "그리고 단 하나의 입맞춤과 포옹으로",
+      "vocab": "e = 그리고\nin = ~안에\nun = 하나의\nsol = 단 하나의\nbacio = 입맞춤\ne = 그리고\nabbraccio = 포옹",
+      "ipa": "e\nin\nun\nsol\nˈbaːtʃo\ne\nabˈbrattʃo"
+    },
+    {
+      "text": "tutte le genti amar!",
+      "meaning": "온 세상 모든 이들을 사랑하는 것!",
+      "vocab": "tutte = 모든\nle = 그\ngenti = 사람들\namar = 사랑하다",
+      "ipa": "ˈtutte\nle\nˈdʒɛnti\naˈmar"
+    }
+  ]
+}

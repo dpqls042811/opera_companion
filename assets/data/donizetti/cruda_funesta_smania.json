@@ -1,0 +1,128 @@
+{
+  "id": "donizetti_cruda_funesta_smania",
+  "title": "Cruda, funesta smania",
+  "composer": "Donizetti",
+  "languageCode": "it",
+  "lines": [
+    {
+      "text": "Cruda funesta, smania",
+      "meaning": "잔인하고도 비통한 열망이여",
+      "vocab": "cruda = 잔혹한\nfunesta = 불길한\nsmania = 광기, 열망",
+      "ipa": "ˈkruːda\nfuˈnɛsta\nˈzmaːnja"
+    },
+    {
+      "text": "Tu m' hai destata in petto!",
+      "meaning": "네가 내 가슴속에 불을 질렀구나!",
+      "vocab": "tu = 너\nm' = 나를\nhai destata = 깨웠다\nin = ~안에\npetto = 가슴",
+      "ipa": "tu\nm ai\ndesˈtaːta\nin\nˈpɛtto"
+    },
+    {
+      "text": "È troppo, è troppo orribile",
+      "meaning": "너무나, 너무나도 끔찍하구나",
+      "vocab": "è = ~이다\ntroppo = 너무\norribile = 끔찍한",
+      "ipa": "ɛ\nˈtrɔppo\nɛ\nˈtrɔppo\norˈriːbile"
+    },
+    {
+      "text": "Questo fatal sospetto!",
+      "meaning": "이 치명적인 의혹이!",
+      "vocab": "questo = 이\nfatal = 치명적인\nsospetto = 의혹, 의심",
+      "ipa": "ˈkwɛsto\nfaˈtal\nsoˈspɛtto"
+    },
+    {
+      "text": "Mi fa gelare e fremere!",
+      "meaning": "나를 얼어붙게 하고 떨게 만드는구나!",
+      "vocab": "mi = 나를\nfa = 만들다\ngelare = 얼어붙다\ne = 그리고\nfremere = 떨다",
+      "ipa": "mi\nfa\ndʒeˈlaːre\ne\nˈfrɛːmere"
+    },
+    {
+      "text": "Mi si solleva il criu!",
+      "meaning": "내 머리카락이 곤두서는구나!",
+      "vocab": "mi = 나의\nsi = ~이\nsolleva = 솟구치다\nil = 그\ncriu = 머리카락",
+      "ipa": "mi\nsi\nsolˈlɛːva\nil\nˈkriːu"
+    },
+    {
+      "text": "Colma di tanto obbrobrio",
+      "meaning": "그토록 큰 치욕으로 가득 찬",
+      "vocab": "colma = 가득 찬\ndi = ~으로\ntanto = 그토록\nobbrobrio = 치욕, 수치",
+      "ipa": "ˈkolma\ndi\nˈtanto\nobˈbrɔːbrjo"
+    },
+    {
+      "text": "Chi suora mia nascéa!",
+      "meaning": "내 누이로 태어난 그 사람이!",
+      "vocab": "chi = ~한 사람\nsuora = 자매\nmia = 나의\nnascéa = 태어났다",
+      "ipa": "ki\nˈswɔːra\nˈmiːa\nnaʃˈʃɛːa"
+    },
+    {
+      "text": "Pria che d' amor si perfido",
+      "meaning": "그토록 불충한 사랑을 드러내기 전에",
+      "vocab": "pria che = ~하기 전에\nd' = ~의\namor = 사랑\nsi = 그토록\nperfido = 불충한, 배신적인",
+      "ipa": "ˈpriːa\nke\nd aˈmɔr\nsi\nˈpɛrfido"
+    },
+    {
+      "text": "A me svelarti rea",
+      "meaning": "죄인임을 내게 드러내기 전에",
+      "vocab": "a = ~에게\nme = 나\nsvelarti = 드러내다\nrea = 죄인인",
+      "ipa": "a\nme\nzveˈlarti\nˈrɛːa"
+    },
+    {
+      "text": "Se ti colpisse un fulmine;",
+      "meaning": "차라리 번개가 너를 내리쳤더라면",
+      "vocab": "se = 만약\nti = 너를\ncolpisse = 쳤더라면\nun = 하나의\nfulmine = 번개",
+      "ipa": "se\nti\nkolˈpisse\nun\nˈfulmine"
+    },
+    {
+      "text": "Fora men rio dolor.",
+      "meaning": "그 고통이 덜 잔인했을 것을",
+      "vocab": "fora = ~이었을 것이다\nmen = 덜\nrio = 잔인한\ndolor = 고통",
+      "ipa": "ˈfɔːra\nmen\nˈriːo\ndoˈlɔr"
+    },
+        {
+      "text": "La pietade in suo favore",
+      "meaning": "그를 위한 자비가",
+      "vocab": "la = 그\npietade = 자비\nin = ~을 위한\nsuo = 그의\nfavore = 호의, 편",
+      "ipa": "la\npjeˈtaːde\nin\nˈsuːo\nfaˈvoːre"
+    },
+    {
+      "text": "Miti sensi invan mi detta ...",
+      "meaning": "온화한 감정을 헛되이 나에게 불러일으킨다...",
+      "vocab": "miti = 온화한\nsensi = 감정들\ninvan = 헛되이\nmi = 나에게\ndetta = 불러일으키다, 받아쓰게 하다",
+      "ipa": "ˈmiːti\nˈsɛnsi\ninˈvan\nmi\nˈdɛtta"
+    },
+    {
+      "text": "Chi mi parla di vendetta",
+      "meaning": "복수를 말하는 자만이",
+      "vocab": "chi = ~하는 자\nmi = 나에게\nparla = 말하다\ndi = ~에 대해\nvendetta = 복수",
+      "ipa": "ki\nmi\nˈparla\ndi\nvenˈdɛtta"
+    },
+    {
+      "text": "Solo intendere potrò. -",
+      "meaning": "오직 그것만을 나는 들을 수 있을 것이다.",
+      "vocab": "solo = 오직\nintendere = 듣다, 이해하다\npotrò = 할 수 있을 것이다",
+      "ipa": "ˈsoːlo\ninˈtɛndere\npoˈtrɔ"
+    },
+    {
+      "text": "Sciagurati! ... il mio furore",
+      "meaning": "악당들이여!... 나의 분노가",
+      "vocab": "sciagurati = 악당들\nil = 그\nmio = 나의\nfurore = 분노",
+      "ipa": "ʃaɡuˈraːti\nil\nˈmiːo\nfuˈroːre"
+    },
+    {
+      "text": "Già su voi tremendo rugge ...",
+      "meaning": "이미 너희 위에서 무시무시하게 으르렁거린다...",
+      "vocab": "già = 이미\nsu = ~위에서\nvoi = 너희\ntremendo = 무시무시한\nrugge = 으르렁거리다",
+      "ipa": "dʒa\nsu\nvɔi\ntrəˈmɛndo\nˈruddʒe"
+    },
+    {
+      "text": "L' empia fiamma che vi strugge",
+      "meaning": "너희를 태우는 저 불경한 불꽃을",
+      "vocab": "l'empia = 불경한\nfiamma = 불꽃\nche = ~하는\nvi = 너희를\nstrugge = 태우다, 녹이다",
+      "ipa": "ˈlɛmpja\nˈfjamma\nke\nvi\nˈstruddʒe"
+    },
+    {
+      "text": "Io col sangue spegnerò.",
+      "meaning": "나는 피로써 꺼버릴 것이다.",
+      "vocab": "io = 나는\ncol = ~로써\nsangue = 피\nspegnerò = 꺼버릴 것이다",
+      "ipa": "ˈiːo\nkol\nˈsaŋɡwe\nspeɲɲeˈrɔ"
+    }
+  ]
+}
